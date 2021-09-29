@@ -1,0 +1,735 @@
+Study ID;Patient ID;Sample ID;Cancer Type Detailed;Mutation Count;Oncotree Code;Overall Survival (Months);Overall Survival Status;Number of Samples Per Patient;Sample Type;Sex;Somatic Status;Diagnosis Age
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-110;Mayo-PDX-Sarkaria-110;Glioblastoma Multiforme;161;GBM;25.92;1:DECEASED;1;Primary;Female;Matched;64
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-118;Mayo-PDX-Sarkaria-118;Glioblastoma Multiforme;79;GBM;24.24;1:DECEASED;1;Primary;Female;Matched;56
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-122;Mayo-PDX-Sarkaria-122;Glioblastoma Multiforme;77;GBM;13.32;1:DECEASED;1;Primary;Female;Matched;58
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-125;Mayo-PDX-Sarkaria-125;Glioblastoma Multiforme;75;GBM;19.32;1:DECEASED;1;Primary;Male;Matched;68
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-126;Mayo-PDX-Sarkaria-126;Glioblastoma Multiforme;160;GBM;17.88;1:DECEASED;1;Primary;Male;Matched;59
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-132;Mayo-PDX-Sarkaria-132;Glioblastoma Multiforme;161;GBM;14.52;1:DECEASED;1;Primary;Male;Matched;75
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-150;Mayo-PDX-Sarkaria-150;Glioblastoma Multiforme;146;GBM;14.64;1:DECEASED;1;Primary;Male;Matched;65
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-155;Mayo-PDX-Sarkaria-155;Glioblastoma Multiforme;69;GBM;55.2;1:DECEASED;1;Primary;Male;Matched;63
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-156;Mayo-PDX-Sarkaria-156;Glioblastoma Multiforme;102;GBM;18.0;1:DECEASED;1;Primary;Male;Matched;69
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-159;Mayo-PDX-Sarkaria-159;Glioblastoma Multiforme;54;GBM;13.44;1:DECEASED;1;Primary;Male;Matched;78
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-164;Mayo-PDX-Sarkaria-164;Glioblastoma Multiforme;101;GBM;29.64;1:DECEASED;1;Primary;Female;Matched;38
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-167;Mayo-PDX-Sarkaria-167;Glioblastoma Multiforme;632;GBM;0.24;1:DECEASED;1;Primary;Male;Unmatched;78
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-168;Mayo-PDX-Sarkaria-168;Glioblastoma Multiforme;98;GBM;23.76;1:DECEASED;1;Primary;Female;Matched;77
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-182;Mayo-PDX-Sarkaria-182;Glioblastoma Multiforme;101;GBM;29.88;1:DECEASED;1;Primary;Male;Matched;56
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-184;Mayo-PDX-Sarkaria-184;Glioblastoma Multiforme;92;GBM;20.52;1:DECEASED;1;Primary;Male;Matched;65
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-187;Mayo-PDX-Sarkaria-187;Glioblastoma Multiforme;95;GBM;19.56;0:LIVING;1;Primary;Female;Matched;53
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-196;Mayo-PDX-Sarkaria-196;Glioblastoma Multiforme;132;GBM;24.96;1:DECEASED;1;Primary;Female;Matched;31
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-206;Mayo-PDX-Sarkaria-206;Glioblastoma Multiforme;126;GBM;35.4;0:LIVING;1;Primary;Female;Matched;53
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-38;Mayo-PDX-Sarkaria-38;Glioblastoma Multiforme;620;GBM;16.56;1:DECEASED;1;Primary;Female;Unmatched;72
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-39;Mayo-PDX-Sarkaria-39;Glioblastoma Multiforme;615;GBM;28.92;1:DECEASED;1;Primary;Male;Unmatched;51
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-5;Mayo-PDX-Sarkaria-5;Glioblastoma Multiforme;612;GBM;30.84;1:DECEASED;1;Primary;Male;Unmatched;57
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-61;Mayo-PDX-Sarkaria-61;Glioblastoma Multiforme;139;GBM;34.56;1:DECEASED;1;Primary;Female;Matched;45
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-67;Mayo-PDX-Sarkaria-67;Glioblastoma Multiforme;127;GBM;23.88;1:DECEASED;1;Primary;Male;Matched;63
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-75;Mayo-PDX-Sarkaria-75;Glioblastoma Multiforme;578;GBM;24.84;1:DECEASED;1;Primary;Female;Unmatched;62
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-84;Mayo-PDX-Sarkaria-84;Glioblastoma Multiforme;137;GBM;75.6;1:DECEASED;1;Primary;Female;Matched;49
+gbm_mayo_pdx_sarkaria_2019;Mayo-PDX-Sarkaria-91;Mayo-PDX-Sarkaria-91;Glioblastoma Multiforme;681;GBM;17.28;1:DECEASED;1;Primary;Male;Unmatched;62
+glioma_mskcc_2019;P-0000378;P-0000378-T01-IM3;Glioblastoma Multiforme;6;GBM;36.6;1:DECEASED;1;Primary;Male;Matched;55
+glioma_mskcc_2019;P-0000588;P-0000588-T01-IM3;Glioblastoma Multiforme;8;GBM;91.1;0:LIVING;1;Primary;Female;Matched;36
+glioma_mskcc_2019;P-0000651;P-0000651-T01-IM3;Glioblastoma Multiforme;7;GBM;36.4;0:LIVING;1;Primary;Female;Matched;68
+glioma_mskcc_2019;P-0000748;P-0000748-T01-IM3;Anaplastic Astrocytoma;2;AASTR;37.9;1:DECEASED;1;Primary;Male;Matched;70
+glioma_mskcc_2019;P-0000758;P-0000758-T01-IM3;Glioblastoma Multiforme;4;GBM;45.4;1:DECEASED;2;Primary;Male;Matched;50
+glioma_mskcc_2019;P-0000818;P-0000818-T01-IM3;Glioblastoma Multiforme;5;GBM;37.3;0:LIVING;2;Primary;Male;Matched;33
+glioma_mskcc_2019;P-0000906;P-0000906-T01-IM3;Glioblastoma Multiforme;7;GBM;73.6;0:LIVING;1;Primary;Male;Matched;70
+glioma_mskcc_2019;P-0000928;P-0000928-T01-IM3;Gliosarcoma;2;GSARC;37.6;1:DECEASED;2;Primary;Male;Matched;49
+glioma_mskcc_2019;P-0000960;P-0000960-T01-IM3;Glioblastoma Multiforme;3;GBM;17;1:DECEASED;1;Primary;Male;Matched;52
+glioma_mskcc_2019;P-0001076;P-0001076-T01-IM3;Diffuse Astrocytoma;4;DASTR;76.3;0:LIVING;1;Primary;Female;Matched;31
+glioma_mskcc_2019;P-0001253;P-0001253-T01-IM3;Glioblastoma Multiforme;4;GBM;33.1;0:LIVING;1;Primary;Female;Matched;42
+glioma_mskcc_2019;P-0001276;P-0001276-T01-IM3;Glioblastoma Multiforme;3;GBM;32;1:DECEASED;1;Primary;Male;Matched;64
+glioma_mskcc_2019;P-0001281;P-0001281-T01-IM3;Glioblastoma Multiforme;4;GBM;36.5;0:LIVING;1;Primary;Male;Matched;52
+glioma_mskcc_2019;P-0001320;P-0001320-T01-IM3;Anaplastic Astrocytoma;6;AASTR;34;0:LIVING;1;Primary;Male;Matched;23
+glioma_mskcc_2019;P-0001326;P-0001326-T01-IM3;Glioblastoma Multiforme;1;GBM;35;0:LIVING;1;Primary;Female;Matched;64
+glioma_mskcc_2019;P-0001425;P-0001425-T01-IM3;Glioblastoma Multiforme;5;GBM;42.5;0:LIVING;2;Primary;Female;Matched;49
+glioma_mskcc_2019;P-0001450;P-0001450-T01-IM3;Anaplastic Astrocytoma;5;AASTR;35.7;0:LIVING;1;Primary;Female;Matched;42
+glioma_mskcc_2019;P-0001487;P-0001487-T01-IM3;Glioblastoma Multiforme;3;GBM;50.1;0:LIVING;1;Primary;Male;Matched;51
+glioma_mskcc_2019;P-0001569;P-0001569-T01-IM3;Glioblastoma Multiforme;5;GBM;67.4;0:LIVING;1;Primary;Female;Matched;67
+glioma_mskcc_2019;P-0001582;P-0001582-T01-IM3;Glioblastoma Multiforme;4;GBM;49.7;0:LIVING;1;Primary;Male;Matched;77
+glioma_mskcc_2019;P-0001728;P-0001728-T02-IM5;Glioblastoma Multiforme;6;GBM;10;1:DECEASED;1;Primary;Female;Matched;42
+glioma_mskcc_2019;P-0001730;P-0001730-T01-IM3;Glioblastoma Multiforme;4;GBM;33.4;0:LIVING;1;Primary;Female;Matched;24
+glioma_mskcc_2019;P-0001731;P-0001731-T01-IM3;Glioblastoma Multiforme;5;GBM;34;0:LIVING;2;Primary;Male;Matched;27
+glioma_mskcc_2019;P-0001843;P-0001843-T01-IM3;Glioblastoma Multiforme;5;GBM;39.4;0:LIVING;2;Primary;Female;Matched;61
+glioma_mskcc_2019;P-0001847;P-0001847-T01-IM3;Anaplastic Oligodendroglioma;8;AODG;40.5;0:LIVING;1;Primary;Female;Matched;36
+glioma_mskcc_2019;P-0001881;P-0001881-T01-IM3;Anaplastic Astrocytoma;3;AASTR;63.8;0:LIVING;1;Primary;Male;Matched;31
+glioma_mskcc_2019;P-0001920;P-0001920-T01-IM3;Anaplastic Astrocytoma;3;AASTR;43;0:LIVING;1;Primary;Male;Matched;35
+glioma_mskcc_2019;P-0001970;P-0001970-T01-IM3;Anaplastic Oligodendroglioma;6;AODG;33.6;0:LIVING;1;Primary;Female;Matched;65
+glioma_mskcc_2019;P-0001971;P-0001971-T01-IM3;Diffuse Astrocytoma;2;DASTR;33.2;0:LIVING;1;Primary;Female;Matched;62
+glioma_mskcc_2019;P-0001975;P-0001975-T01-IM3;Anaplastic Astrocytoma;5;AASTR;38.9;0:LIVING;1;Primary;Male;Matched;25
+glioma_mskcc_2019;P-0002015;P-0002015-T01-IM3;Glioblastoma Multiforme;2;GBM;32.1;1:DECEASED;2;Primary;Female;Matched;43
+glioma_mskcc_2019;P-0002043;P-0002043-T01-IM3;Diffuse Astrocytoma;4;DASTR;54.6;1:DECEASED;1;Primary;Male;Matched;31
+glioma_mskcc_2019;P-0002051;P-0002051-T01-IM3;Anaplastic Astrocytoma;4;AASTR;42;0:LIVING;1;Primary;Male;Matched;21
+glioma_mskcc_2019;P-0002083;P-0002083-T01-IM3;Glioblastoma Multiforme;3;GBM;0.46;0:LIVING;1;Primary;Female;Matched;54
+glioma_mskcc_2019;P-0002224;P-0002224-T01-IM3;Anaplastic Oligodendroglioma;5;AODG;91.7;0:LIVING;1;Primary;Male;Matched;33
+glioma_mskcc_2019;P-0002294;P-0002294-T01-IM3;Anaplastic Astrocytoma;8;AASTR;84.2;1:DECEASED;2;Primary;Female;Matched;41
+glioma_mskcc_2019;P-0002298;P-0002298-T01-IM3;Oligodendroglioma;2;ODG;119;0:LIVING;1;Primary;Female;Matched;29
+glioma_mskcc_2019;P-0002386;P-0002386-T01-IM3;Anaplastic Astrocytoma;5;AASTR;77.2;1:DECEASED;3;Primary;Female;Matched;28
+glioma_mskcc_2019;P-0002638;P-0002638-T01-IM3;Gliosarcoma;7;GSARC;30.2;0:LIVING;1;Primary;Female;Matched;66
+glioma_mskcc_2019;P-0002691;P-0002691-T01-IM3;Anaplastic Astrocytoma;4;AASTR;101;0:LIVING;1;Primary;Female;Matched;60
+glioma_mskcc_2019;P-0002815;P-0002815-T01-IM3;Oligodendroglioma;4;ODG;62.2;0:LIVING;1;Primary;Male;Matched;43
+glioma_mskcc_2019;P-0002833;P-0002833-T01-IM3;Glioblastoma Multiforme;2;GBM;14;1:DECEASED;1;Primary;Male;Matched;22
+glioma_mskcc_2019;P-0002891;P-0002891-T01-IM3;Glioblastoma Multiforme;7;GBM;47.8;0:LIVING;1;Primary;Female;Matched;53
+glioma_mskcc_2019;P-0002900;P-0002900-T01-IM3;Rosette-forming Glioneuronal Tumor of the Fourth Ventricle;3;RGNT;39;0:LIVING;1;Primary;Male;Matched;45
+glioma_mskcc_2019;P-0002936;P-0002936-T01-IM3;Glioblastoma Multiforme;6;GBM;39.2;0:LIVING;1;Primary;Male;Matched;71
+glioma_mskcc_2019;P-0002963;P-0002963-T01-IM3;Diffuse Astrocytoma;3;DASTR;55.3;0:LIVING;1;Primary;Male;Matched;51
+glioma_mskcc_2019;P-0003268;P-0003268-T01-IM5;Anaplastic Astrocytoma;4;AASTR;88.7;1:DECEASED;1;Primary;Male;Matched;38
+glioma_mskcc_2019;P-0003339;P-0003339-T01-IM5;Oligodendroglioma;3;ODG;42.5;0:LIVING;1;Primary;Female;Matched;45
+glioma_mskcc_2019;P-0003360;P-0003360-T01-IM5;Glioblastoma Multiforme;4;GBM;42;0:LIVING;1;Primary;Male;Matched;61
+glioma_mskcc_2019;P-0003392;P-0003392-T01-IM5;Anaplastic Astrocytoma;3;AASTR;74.6;0:LIVING;1;Primary;Female;Matched;29
+glioma_mskcc_2019;P-0003447;P-0003447-T01-IM5;Anaplastic Astrocytoma;5;AASTR;60.9;1:DECEASED;1;Primary;Male;Matched;50
+glioma_mskcc_2019;P-0003449;P-0003449-T01-IM5;Anaplastic Astrocytoma;5;AASTR;66;0:LIVING;1;Primary;Male;Matched;37
+glioma_mskcc_2019;P-0003467;P-0003467-T01-IM5;Anaplastic Astrocytoma;6;AASTR;33.5;1:DECEASED;1;Primary;Male;Matched;31
+glioma_mskcc_2019;P-0003598;P-0003598-T01-IM5;Anaplastic Astrocytoma;2;AASTR;43.5;1:DECEASED;3;Primary;Female;Matched;46
+glioma_mskcc_2019;P-0003600;P-0003600-T01-IM5;Glioblastoma Multiforme;3;GBM;21;1:DECEASED;1;Primary;Male;Matched;54
+glioma_mskcc_2019;P-0003614;P-0003614-T01-IM5;Oligodendroglioma;3;ODG;78.7;0:LIVING;1;Primary;Male;Matched;27
+glioma_mskcc_2019;P-0003636;P-0003636-T01-IM5;Glioblastoma Multiforme;7;GBM;188;0:LIVING;1;Primary;Female;Matched;34
+glioma_mskcc_2019;P-0003643;P-0003643-T01-IM5;Diffuse Astrocytoma;4;DASTR;59.5;1:DECEASED;1;Primary;Male;Matched;29
+glioma_mskcc_2019;P-0003781;P-0003781-T01-IM5;Glioblastoma Multiforme;4;GBM;31.2;0:LIVING;1;Primary;Male;Matched;57
+glioma_mskcc_2019;P-0003820;P-0003820-T01-IM5;Anaplastic Astrocytoma;5;AASTR;49.7;0:LIVING;1;Primary;Male;Matched;31
+glioma_mskcc_2019;P-0003827;P-0003827-T01-IM5;Glioblastoma Multiforme;2;GBM;70.8;0:LIVING;1;Primary;Female;Matched;51
+glioma_mskcc_2019;P-0003833;P-0003833-T01-IM5;Oligodendroglioma;4;ODG;86.5;0:LIVING;1;Primary;Male;Matched;38
+glioma_mskcc_2019;P-0003853;P-0003853-T01-IM5;Glioblastoma Multiforme;6;GBM;31.2;0:LIVING;1;Primary;Male;Matched;58
+glioma_mskcc_2019;P-0004027;P-0004027-T01-IM5;Anaplastic Oligodendroglioma;4;AODG;77.7;0:LIVING;1;Primary;Female;Matched;37
+glioma_mskcc_2019;P-0004073;P-0004073-T01-IM5;Diffuse Astrocytoma;6;DASTR;47;0:LIVING;1;Primary;Male;Matched;61
+glioma_mskcc_2019;P-0004119;P-0004119-T01-IM5;Glioblastoma Multiforme;4;GBM;58.6;0:LIVING;2;Primary;Male;Matched;45
+glioma_mskcc_2019;P-0004162;P-0004162-T01-IM5;Glioblastoma Multiforme;4;GBM;33.7;0:LIVING;1;Primary;Male;Matched;52
+glioma_mskcc_2019;P-0004270;P-0004270-T01-IM5;Anaplastic Astrocytoma;4;AASTR;90.8;1:DECEASED;2;Primary;Male;Matched;37
+glioma_mskcc_2019;P-0004288;P-0004288-T01-IM5;Anaplastic Astrocytoma;2;AASTR;34.6;0:LIVING;2;Primary;Male;Matched;23
+glioma_mskcc_2019;P-0004304;P-0004304-T01-IM5;Oligodendroglioma;5;ODG;77.7;0:LIVING;1;Primary;Male;Matched;35
+glioma_mskcc_2019;P-0004319;P-0004319-T01-IM5;Diffuse Astrocytoma;4;DASTR;36.2;0:LIVING;1;Primary;Female;Matched;38
+glioma_mskcc_2019;P-0004370;P-0004370-T01-IM5;Anaplastic Oligodendroglioma;8;AODG;0.56;0:LIVING;1;Primary;Male;Matched;45
+glioma_mskcc_2019;P-0004396;P-0004396-T01-IM5;Anaplastic Astrocytoma;3;AASTR;42.4;0:LIVING;1;Primary;Male;Matched;49
+glioma_mskcc_2019;P-0004599;P-0004599-T01-IM5;Diffuse Astrocytoma;3;DASTR;89.2;0:LIVING;1;Primary;Male;Matched;38
+glioma_mskcc_2019;P-0004625;P-0004625-T01-IM5;Diffuse Astrocytoma;2;DASTR;194;0:LIVING;1;Primary;Male;Matched;35
+glioma_mskcc_2019;P-0004630;P-0004630-T01-IM5;Oligodendroglioma;2;ODG;44.9;0:LIVING;1;Primary;Female;Matched;51
+glioma_mskcc_2019;P-0004837;P-0004837-T01-IM5;Glioblastoma Multiforme;4;GBM;20;1:DECEASED;1;Primary;Male;Matched;69
+glioma_mskcc_2019;P-0004857;P-0004857-T01-IM5;Glioblastoma Multiforme;5;GBM;36;0:LIVING;1;Primary;Male;Matched;34
+glioma_mskcc_2019;P-0005051;P-0005051-T01-IM5;Glioblastoma Multiforme;2;GBM;40.8;1:DECEASED;1;Primary;Female;Matched;54
+glioma_mskcc_2019;P-0005243;P-0005243-T01-IM5;Anaplastic Astrocytoma;4;AASTR;66.5;0:LIVING;1;Primary;Male;Matched;46
+glioma_mskcc_2019;P-0005299;P-0005299-T01-IM5;Glioblastoma Multiforme;3;GBM;23;0:LIVING;1;Primary;Male;Matched;54
+glioma_mskcc_2019;P-0005477;P-0005477-T01-IM5;Glioblastoma Multiforme;4;GBM;0.66;0:LIVING;1;Primary;Female;Matched;44
+glioma_mskcc_2019;P-0005616;P-0005616-T02-IM5;Anaplastic Oligodendroglioma;3;AODG;52.6;0:LIVING;1;Primary;Male;Matched;27
+glioma_mskcc_2019;P-0005852;P-0005852-T02-IM5;Glioblastoma Multiforme;9;GBM;13;1:DECEASED;1;Primary;Male;Matched;75
+glioma_mskcc_2019;P-0005951;P-0005951-T01-IM5;Oligodendroglioma;2;ODG;31.6;0:LIVING;1;Primary;Male;Matched;35
+glioma_mskcc_2019;P-0006174;P-0006174-T01-IM5;Anaplastic Astrocytoma;6;AASTR;11;0:LIVING;1;Primary;Female;Matched;81
+glioma_mskcc_2019;P-0006182;P-0006182-T01-IM5;Glioblastoma Multiforme;5;GBM;0.79;0:LIVING;1;Primary;Male;Matched;26
+glioma_mskcc_2019;P-0006396;P-0006396-T01-IM5;Diffuse Astrocytoma;4;DASTR;60.1;0:LIVING;1;Primary;Male;Matched;36
+glioma_mskcc_2019;P-0006481;P-0006481-T01-IM5;Anaplastic Oligodendroglioma;8;AODG;89;0:LIVING;1;Primary;Male;Matched;43
+glioma_mskcc_2019;P-0006545;P-0006545-T01-IM5;Glioblastoma Multiforme;5;GBM;32;1:DECEASED;1;Primary;Male;Matched;22
+glioma_mskcc_2019;P-0006554;P-0006554-T01-IM5;Anaplastic Oligodendroglioma;47;AODG;87.3;0:LIVING;1;Primary;Female;Matched;31
+glioma_mskcc_2019;P-0006667;P-0006667-T01-IM5;Anaplastic Astrocytoma;4;AASTR;18;1:DECEASED;1;Primary;Male;Matched;58
+glioma_mskcc_2019;P-0006678;P-0006678-T01-IM5;Diffuse Astrocytoma;5;DASTR;66.5;0:LIVING;2;Primary;Male;Matched;20
+glioma_mskcc_2019;P-0006782;P-0006782-T01-IM5;Diffuse Astrocytoma;17;DASTR;99.1;1:DECEASED;2;Primary;Female;Matched;27
+glioma_mskcc_2019;P-0006823;P-0006823-T01-IM5;Glioblastoma Multiforme;2;GBM;72.7;0:LIVING;1;Primary;Male;Matched;61
+glioma_mskcc_2019;P-0006947;P-0006947-T01-IM5;Oligodendroglioma;7;ODG;54.1;0:LIVING;1;Primary;Male;Matched;38
+glioma_mskcc_2019;P-0007018;P-0007018-T01-IM5;Glioblastoma Multiforme;8;GBM;82;0:LIVING;1;Primary;Male;Matched;50
+glioma_mskcc_2019;P-0007034;P-0007034-T01-IM5;Anaplastic Oligodendroglioma;8;AODG;78;0:LIVING;1;Primary;Female;Matched;76
+glioma_mskcc_2019;P-0007173;P-0007173-T01-IM5;Glioblastoma Multiforme;2;GBM;20;0:LIVING;1;Primary;Male;Matched;36
+glioma_mskcc_2019;P-0007914;P-0007914-T01-IM5;Diffuse Astrocytoma;3;DASTR;154;0:LIVING;1;Primary;Female;Matched;20
+glioma_mskcc_2019;P-0008035;P-0008035-T01-IM5;Diffuse Astrocytoma;5;DASTR;38.1;0:LIVING;1;Primary;Male;Matched;39
+glioma_mskcc_2019;P-0008060;P-0008060-T01-IM5;Anaplastic Oligodendroglioma;6;AODG;86.6;0:LIVING;1;Primary;Female;Matched;56
+glioma_mskcc_2019;P-0008242;P-0008242-T01-IM5;Anaplastic Astrocytoma;5;AASTR;53.7;1:DECEASED;1;Primary;Male;Matched;34
+glioma_mskcc_2019;P-0008270;P-0008270-T01-IM5;Oligodendroglioma;7;ODG;0.33;0:LIVING;1;Primary;Male;Matched;36
+glioma_mskcc_2019;P-0008341;P-0008341-T01-IM5;Glioblastoma Multiforme;5;GBM;40;0:LIVING;1;Primary;Female;Matched;73
+glioma_mskcc_2019;P-0008384;P-0008384-T01-IM5;Anaplastic Astrocytoma;3;AASTR;198;0:LIVING;1;Primary;Male;Matched;38
+glioma_mskcc_2019;P-0008770;P-0008770-T01-IM5;Glioblastoma Multiforme;3;GBM;0.92;0:LIVING;1;Primary;Male;Matched;51
+glioma_mskcc_2019;P-0009193;P-0009193-T01-IM5;Diffuse Astrocytoma;5;DASTR;34.8;0:LIVING;1;Primary;Male;Matched;26
+glioma_mskcc_2019;P-0009244;P-0009244-T01-IM5;Anaplastic Astrocytoma;3;AASTR;66.7;0:LIVING;1;Primary;Male;Matched;42
+glioma_mskcc_2019;P-0009447;P-0009447-T01-IM5;Anaplastic Oligodendroglioma;5;AODG;37.9;0:LIVING;1;Primary;Female;Matched;48
+glioma_mskcc_2019;P-0009507;P-0009507-T01-IM5;Anaplastic Astrocytoma;6;AASTR;63.6;0:LIVING;1;Primary;Male;Matched;27
+glioma_mskcc_2019;P-0009511;P-0009511-T02-IM5;Oligodendroglioma;7;ODG;84.6;0:LIVING;1;Primary;Male;Matched;37
+glioma_mskcc_2019;P-0009587;P-0009587-T01-IM5;Glioblastoma Multiforme;6;GBM;43.5;0:LIVING;1;Primary;Female;Matched;67
+glioma_mskcc_2019;P-0009629;P-0009629-T01-IM5;Glioblastoma Multiforme;8;GBM;69.2;1:DECEASED;1;Primary;Male;Matched;28
+glioma_mskcc_2019;P-0010380;P-0010380-T01-IM5;Glioblastoma Multiforme;7;GBM;11;1:DECEASED;2;Primary;Male;Matched;74
+glioma_mskcc_2019;P-0010483;P-0010483-T01-IM5;Glioblastoma Multiforme;3;GBM;14;0:LIVING;1;Primary;Female;Matched;44
+glioma_mskcc_2019;P-0010534;P-0010534-T01-IM5;Glioblastoma Multiforme;3;GBM;19;1:DECEASED;1;Primary;Male;Matched;59
+glioma_mskcc_2019;P-0010792;P-0010792-T01-IM5;Anaplastic Astrocytoma;3;AASTR;84;0:LIVING;1;Primary;Female;Matched;45
+glioma_mskcc_2019;P-0010850;P-0010850-T01-IM5;Glioblastoma Multiforme;1;GBM;12;1:DECEASED;1;Primary;Male;Matched;52
+glioma_mskcc_2019;P-0011001;P-0011001-T01-IM5;Anaplastic Oligodendroglioma;8;AODG;106;0:LIVING;1;Primary;Female;Matched;24
+glioma_mskcc_2019;P-0011207;P-0011207-T01-IM5;Anaplastic Astrocytoma;2;AASTR;0.26;0:LIVING;1;Primary;Male;Matched;64
+glioma_mskcc_2019;P-0011320;P-0011320-T01-IM5;Oligodendroglioma;3;ODG;136;0:LIVING;1;Primary;Male;Matched;42
+glioma_mskcc_2019;P-0011460;P-0011460-T01-IM5;Glioblastoma Multiforme;7;GBM;15;0:LIVING;1;Primary;Female;Matched;46
+glioma_mskcc_2019;P-0011544;P-0011544-T01-IM5;Glioblastoma Multiforme;6;GBM;17;0:LIVING;1;Primary;Male;Matched;65
+glioma_mskcc_2019;P-0012156;P-0012156-T01-IM5;Glioblastoma Multiforme;9;GBM;40.1;0:LIVING;1;Primary;Male;Matched;40
+glioma_mskcc_2019;P-0012259;P-0012259-T01-IM5;Anaplastic Oligodendroglioma;12;AODG;43.9;0:LIVING;1;Primary;Male;Matched;48
+glioma_mskcc_2019;P-0012646;P-0012646-T01-IM5;Glioblastoma Multiforme;16;GBM;16;0:LIVING;1;Primary;Male;Matched;60
+glioma_mskcc_2019;P-0012830;P-0012830-T01-IM5;Glioblastoma Multiforme;4;GBM;11;1:DECEASED;1;Primary;Male;Matched;73
+glioma_mskcc_2019;P-0012835;P-0012835-T01-IM5;Glioblastoma Multiforme;8;GBM;92.3;1:DECEASED;1;Primary;Female;Matched;55
+glioma_mskcc_2019;P-0012997;P-0012997-T01-IM5;Oligodendroglioma;3;ODG;125;0:LIVING;1;Primary;Female;Matched;47
+glioma_mskcc_2019;P-0013005;P-0013005-T01-IM5;Glioblastoma Multiforme;5;GBM;0.82;0:LIVING;1;Primary;Female;Matched;62
+glioma_mskcc_2019;P-0013092;P-0013092-T01-IM5;Anaplastic Astrocytoma;4;AASTR;18;0:LIVING;1;Primary;Female;Matched;43
+glioma_mskcc_2019;P-0013243;P-0013243-T01-IM5;Oligodendroglioma;6;ODG;135;1:DECEASED;2;Primary;Female;Matched;37
+glioma_mskcc_2019;P-0013276;P-0013276-T01-IM5;Oligodendroglioma;6;ODG;63.7;0:LIVING;1;Primary;Female;Matched;44
+glioma_mskcc_2019;P-0013308;P-0013308-T01-IM5;Diffuse Glioma;3;DIFG;42.2;1:DECEASED;1;Primary;Male;Matched;49
+glioma_mskcc_2019;P-0013455;P-0013455-T01-IM5;Oligodendroglioma;3;ODG;211;0:LIVING;1;Primary;Male;Matched;40
+glioma_mskcc_2019;P-0013578;P-0013578-T01-IM5;Glioblastoma Multiforme;3;GBM;0.95;0:LIVING;1;Primary;Male;Matched;51
+glioma_mskcc_2019;P-0013595;P-0013595-T01-IM5;Glioblastoma Multiforme;5;GBM;0.36;0:LIVING;1;Primary;Male;Matched;54
+glioma_mskcc_2019;P-0013676;P-0013676-T01-IM5;Glioblastoma Multiforme;458;GBM;117;0:LIVING;1;Primary;Male;Matched;26
+glioma_mskcc_2019;P-0013770;P-0013770-T01-IM5;Glioblastoma Multiforme;8;GBM;0.2;0:LIVING;1;Primary;Male;Matched;80
+glioma_mskcc_2019;P-0013852;P-0013852-T01-IM5;Glioblastoma Multiforme;4;GBM;0.26;0:LIVING;1;Primary;Male;Matched;69
+glioma_mskcc_2019;P-0014006;P-0014006-T01-IM5;Glioblastoma Multiforme;2;GBM;13;0:LIVING;1;Primary;Male;Matched;63
+glioma_mskcc_2019;P-0014031;P-0014031-T01-IM5;Glioblastoma Multiforme;2;GBM;0.49;0:LIVING;1;Primary;Female;Matched;78
+glioma_mskcc_2019;P-0014071;P-0014071-T01-IM5;Glioblastoma Multiforme;6;GBM;7;1:DECEASED;1;Primary;Male;Matched;66
+glioma_mskcc_2019;P-0014501;P-0014501-T01-IM6;Glioblastoma Multiforme;3;GBM;38.3;0:LIVING;2;Primary;Male;Matched;47
+glioma_mskcc_2019;P-0014759;P-0014759-T01-IM6;Glioblastoma Multiforme;5;GBM;0.2;0:LIVING;1;Primary;Male;Matched;56
+glioma_mskcc_2019;P-0014881;P-0014881-T01-IM6;Glioblastoma Multiforme;5;GBM;0.69;0:LIVING;1;Primary;Male;Matched;67
+glioma_mskcc_2019;P-0015062;P-0015062-T01-IM6;Oligodendroglioma;6;ODG;146;0:LIVING;1;Primary;Female;Matched;37
+glioma_mskcc_2019;P-0015156;P-0015156-T01-IM6;Glioblastoma Multiforme;1;GBM;33.4;0:LIVING;1;Primary;Male;Matched;35
+glioma_mskcc_2019;P-0015290;P-0015290-T01-IM6;Glioblastoma Multiforme;4;GBM;0.82;0:LIVING;1;Primary;Male;Matched;60
+glioma_mskcc_2019;P-0015357;P-0015357-T01-IM6;Anaplastic Astrocytoma;4;AASTR;0.92;0:LIVING;1;Primary;Male;Matched;39
+glioma_mskcc_2019;P-0015460;P-0015460-T01-IM6;Anaplastic Oligodendroglioma;2;AODG;99.3;0:LIVING;1;Primary;Female;Matched;27
+glioma_mskcc_2019;P-0015527;P-0015527-T01-IM6;Anaplastic Astrocytoma;3;AASTR;120;0:LIVING;1;Primary;Female;Matched;36
+glioma_mskcc_2019;P-0015571;P-0015571-T01-IM6;Glioblastoma Multiforme;5;GBM;75.5;0:LIVING;1;Primary;Female;Matched;56
+glioma_mskcc_2019;P-0015617;P-0015617-T01-IM6;Anaplastic Oligodendroglioma;9;AODG;87.1;0:LIVING;1;Primary;Female;Matched;48
+glioma_mskcc_2019;P-0015666;P-0015666-T01-IM6;Diffuse Astrocytoma;5;DASTR;101;0:LIVING;1;Primary;Male;Matched;40
+glioma_mskcc_2019;P-0016209;P-0016209-T01-IM6;Glioblastoma Multiforme;4;GBM;11;0:LIVING;1;Primary;Male;Matched;60
+glioma_mskcc_2019;P-0016238;P-0016238-T01-IM6;Glioblastoma Multiforme;3;GBM;17;0:LIVING;1;Primary;Male;Matched;55
+glioma_mskcc_2019;P-0016383;P-0016383-T01-IM6;Oligodendroglioma;8;ODG;76.2;0:LIVING;1;Primary;Female;Matched;42
+glioma_mskcc_2019;P-0016404;P-0016404-T01-IM6;Anaplastic Astrocytoma;4;AASTR;81.3;0:LIVING;1;Primary;Female;Matched;29
+glioma_mskcc_2019;P-0016462;P-0016462-T01-IM6;Anaplastic Oligodendroglioma;6;AODG;0.76;0:LIVING;1;Primary;Female;Matched;41
+glioma_mskcc_2019;P-0016540;P-0016540-T01-IM6;Glioblastoma Multiforme;2;GBM;36.8;0:LIVING;1;Primary;Female;Matched;56
+glioma_mskcc_2019;P-0016576;P-0016576-T01-IM6;Anaplastic Astrocytoma;10;AASTR;0.89;0:LIVING;1;Primary;Male;Matched;27
+glioma_mskcc_2019;P-0016896;P-0016896-T01-IM6;Anaplastic Astrocytoma;3;AASTR;101;0:LIVING;1;Primary;Male;Matched;33
+glioma_mskcc_2019;P-0017017;P-0017017-T01-IM6;Anaplastic Astrocytoma;4;AASTR;62.1;0:LIVING;1;Primary;Male;Matched;38
+glioma_mskcc_2019;P-0017095;P-0017095-T01-IM6;Glioblastoma Multiforme;1;GBM;84.7;0:LIVING;1;Primary;Male;Matched;39
+glioma_mskcc_2019;P-0017183;P-0017183-T01-IM6;Glioblastoma Multiforme;3;GBM;0.69;0:LIVING;1;Primary;Female;Matched;44
+glioma_mskcc_2019;P-0017301;P-0017301-T01-IM6;Oligodendroglioma;3;ODG;64.3;0:LIVING;1;Primary;Female;Matched;19
+glioma_mskcc_2019;P-0017802;P-0017802-T01-IM6;Anaplastic Astrocytoma;5;AASTR;71;1:DECEASED;1;Primary;Female;Matched;25
+glioma_mskcc_2019;P-0017864;P-0017864-T01-IM6;Glioblastoma Multiforme;6;GBM;0.53;0:LIVING;1;Primary;Male;Matched;77
+glioma_mskcc_2019;P-0017922;P-0017922-T01-IM6;Anaplastic Astrocytoma;3;AASTR;0.72;0:LIVING;1;Primary;Female;Matched;29
+glioma_mskcc_2019;P-0018276;P-0018276-T01-IM6;Glioblastoma Multiforme;2;GBM;0.26;0:LIVING;1;Primary;Male;Matched;53
+glioma_mskcc_2019;P-0018317;P-0018317-T01-IM6;Diffuse Astrocytoma;6;DASTR;75.3;0:LIVING;1;Primary;Male;Matched;49
+glioma_mskcc_2019;P-0018387;P-0018387-T01-IM6;Diffuse Astrocytoma;6;DASTR;42.8;0:LIVING;1;Primary;Male;Matched;41
+glioma_mskcc_2019;P-0018544;P-0018544-T01-IM6;Glioblastoma Multiforme;5;GBM;40.2;0:LIVING;1;Primary;Male;Matched;66
+glioma_mskcc_2019;P-0018836;P-0018836-T01-IM6;Glioblastoma Multiforme;2;GBM;0.89;0:LIVING;1;Primary;Female;Matched;49
+glioma_mskcc_2019;P-0018911;P-0018911-T01-IM6;Glioblastoma Multiforme;6;GBM;0.92;0:LIVING;1;Primary;Female;Matched;35
+glioma_mskcc_2019;P-0018951;P-0018951-T01-IM6;Glioblastoma Multiforme;5;GBM;0.66;0:LIVING;1;Primary;Female;Matched;48
+glioma_mskcc_2019;P-0019164;P-0019164-T01-IM6;Glioblastoma Multiforme;3;GBM;0.53;0:LIVING;1;Primary;Male;Matched;62
+glioma_mskcc_2019;P-0019236;P-0019236-T01-IM6;Oligodendroglioma;3;ODG;26;0:LIVING;1;Primary;Female;Matched;32
+glioma_mskcc_2019;P-0019505;P-0019505-T01-IM6;Oligodendroglioma;2;ODG;0.66;0:LIVING;1;Primary;Male;Matched;22
+lgg_ucsf_2014;P01;P01_Pri;Astrocytoma;39;ASTR;58;1:DECEASED;2;Primary;Male;Matched;28
+lgg_ucsf_2014;P04;P04_Pri;Astrocytoma;12;ASTR;61;1:DECEASED;4;Primary;Male;Matched;22
+lgg_ucsf_2014;P05;P05_Pri;Astrocytoma;29;ASTR;74;1:DECEASED;2;Primary;Female;Matched;39
+lgg_ucsf_2014;P06;P06_Pri;Astrocytoma;1;ASTR;87;1:DECEASED;2;Primary;Male;Matched;22
+lgg_ucsf_2014;P07;P07_Pri;Astrocytoma;101;ASTR;148;1:DECEASED;2;Primary;Male;Matched;30
+lgg_ucsf_2014;P08;P08_Pri;Oligoastrocytoma;20;OAST;103;1:DECEASED;2;Primary;Male;Matched;44
+lgg_ucsf_2014;P09;P09_Pri;Astrocytoma;5;ASTR;45;1:DECEASED;2;Primary;Male;Matched;28
+lgg_ucsf_2014;P10;P10_Pri;Astrocytoma;27;ASTR;44;1:DECEASED;2;Primary;Female;Matched;41
+lgg_ucsf_2014;P11;P11_Pri;Oligoastrocytoma;19;OAST;186;1:DECEASED;2;Primary;Female;Matched;30
+lgg_ucsf_2014;P12;P12_Pri;Astrocytoma;16;ASTR;82;0:LIVING;2;Primary;Male;Matched;35
+lgg_ucsf_2014;P13;P13_Pri;Oligoastrocytoma;26;OAST;106;1:DECEASED;2;Primary;Male;Matched;24
+lgg_ucsf_2014;P15;P15_Pri;Oligoastrocytoma;20;OAST;143;0:LIVING;2;Primary;Female;Matched;38
+lgg_ucsf_2014;P16;P16_Pri;Astrocytoma;28;ASTR;38;1:DECEASED;2;Primary;Female;Matched;35
+lgg_ucsf_2014;P17;P17_Pri_A;Oligodendroglioma;16;ODG;59;0:LIVING;7;Primary;Male;Matched;27
+lgg_ucsf_2014;P17;P17_Pri_B;Oligodendroglioma;12;ODG;59;0:LIVING;7;Primary;Male;Matched;27
+lgg_ucsf_2014;P17;P17_Pri_C;Oligodendroglioma;12;ODG;59;0:LIVING;7;Primary;Male;Matched;27
+lgg_ucsf_2014;P18;P18_Pri_A;Oligoastrocytoma;50;OAST;106;0:LIVING;5;Primary;Male;Matched;49
+lgg_ucsf_2014;P18;P18_Pri_B;Oligoastrocytoma;45;OAST;106;0:LIVING;5;Primary;Male;Matched;49
+lgg_ucsf_2014;P18;P18_Pri_C;Oligoastrocytoma;56;OAST;106;0:LIVING;5;Primary;Male;Matched;49
+lgg_ucsf_2014;P18;P18_Pri_D;Oligoastrocytoma;49;OAST;106;0:LIVING;5;Primary;Male;Matched;49
+lgg_ucsf_2014;P21;P21_Pri;Oligoastrocytoma;23;OAST;35;1:DECEASED;2;Primary;Male;Matched;27
+lgg_ucsf_2014;P24;P24_Pri;Astrocytoma;12;ASTR;109;1:DECEASED;3;Primary;Male;Matched;34
+lgg_ucsf_2014;P25;P25_Pri;Astrocytoma;35;ASTR;42;0:LIVING;2;Primary;Male;Matched;39
+lgg_ucsf_2014;P26;P26_Pri_A;Astrocytoma;20;ASTR;47;0:LIVING;4;Primary;Female;Matched;36
+lgg_ucsf_2014;P26;P26_Pri_B;Astrocytoma;24;ASTR;47;0:LIVING;4;Primary;Female;Matched;36
+lgg_ucsf_2014;P27;P27_Pri_A;Astrocytoma;24;ASTR;54;0:LIVING;4;Primary;Male;Matched;56
+lgg_ucsf_2014;P27;P27_Pri_B;Astrocytoma;30;ASTR;54;0:LIVING;4;Primary;Male;Matched;56
+lgg_ucsf_2014;P28;P28_Pri;Astrocytoma;15;ASTR;137;0:LIVING;2;Primary;Male;Matched;30
+lgg_ucsf_2014;P29;P29_Pri;Astrocytoma;35;ASTR;109;1:DECEASED;2;Primary;Male;Matched;52
+gbm_tcga_pub2013;TCGA-06-0125;TCGA-06-0125-01;Glioblastoma Multiforme;53;GBM;47.6;1:DECEASED;1;Primary;Female;Matched;63.9
+gbm_tcga_pub2013;TCGA-06-0130;TCGA-06-0130-01;Glioblastoma Multiforme;21;GBM;13;1:DECEASED;1;Primary;Male;Matched;54.2
+gbm_tcga_pub2013;TCGA-06-0178;TCGA-06-0178-01;Glioblastoma Multiforme;3;GBM;54;0:LIVING;1;Primary;Male;Matched;39
+gbm_tcga_pub2013;TCGA-06-0184;TCGA-06-0184-01;Glioblastoma Multiforme;36;GBM;40.4;0:LIVING;1;Primary;Male;Matched;63.8
+gbm_tcga_pub2013;TCGA-06-0185;TCGA-06-0185-01;Glioblastoma Multiforme;47;GBM;37;0:LIVING;1;Primary;Male;Matched;54.5
+gbm_tcga_pub2013;TCGA-06-0213;TCGA-06-0213-01;Glioblastoma Multiforme;41;GBM;0.5;1:DECEASED;1;Primary;Female;Matched;55.1
+gbm_tcga_pub2013;TCGA-06-0214;TCGA-06-0214-01;Glioblastoma Multiforme;46;GBM;15;1:DECEASED;1;Primary;Male;Matched;66.2
+gbm_tcga_pub2013;TCGA-06-0219;TCGA-06-0219-01;Glioblastoma Multiforme;29;GBM;0.7;1:DECEASED;1;Primary;Male;Matched;67
+gbm_tcga_pub2013;TCGA-06-0241;TCGA-06-0241-01;Glioblastoma Multiforme;39;GBM;15;0:LIVING;1;Primary;Female;Matched;66
+gbm_tcga_pub2013;TCGA-06-0750;TCGA-06-0750-01;Glioblastoma Multiforme;29;GBM;0.9;1:DECEASED;1;Primary;Male;Matched;43.9
+gbm_tcga_pub2013;TCGA-06-0879;TCGA-06-0879-01;Glioblastoma Multiforme;40;GBM;23;0:LIVING;1;Primary;Male;Matched;52.4
+gbm_tcga_pub2013;TCGA-06-2564;TCGA-06-2564-01;Glioblastoma Multiforme;45;GBM;6;0:LIVING;1;Primary;Male;Matched;50.5
+gbm_tcga_pub2013;TCGA-06-5414;TCGA-06-5414-01;Glioblastoma Multiforme;29;GBM;9;0:LIVING;1;Primary;Male;Matched;61.7
+gbm_tcga_pub2013;TCGA-06-6701;TCGA-06-6701-01;Glioblastoma Multiforme;27;GBM;5;0:LIVING;1;Primary;Male;Matched;60.4
+gbm_tcga_pub2013;TCGA-08-0386;TCGA-08-0386-01;Glioblastoma Multiforme;8;GBM;18;1:DECEASED;1;Primary;Male;Matched;74.1
+gbm_tcga_pub2013;TCGA-12-0618;TCGA-12-0618-01;Glioblastoma Multiforme;41;GBM;13;1:DECEASED;1;Primary;Male;Matched;49.5
+gbm_tcga_pub2013;TCGA-12-0619;TCGA-12-0619-01;Glioblastoma Multiforme;45;GBM;34.9;1:DECEASED;1;Primary;Male;Matched;60
+gbm_tcga_pub2013;TCGA-12-3650;TCGA-12-3650-01;Glioblastoma Multiforme;35;GBM;11;1:DECEASED;1;Primary;Male;Matched;46.9
+gbm_tcga_pub2013;TCGA-12-3652;TCGA-12-3652-01;Glioblastoma Multiforme;37;GBM;34.9;1:DECEASED;1;Primary;Male;Matched;60
+gbm_tcga_pub2013;TCGA-12-5301;TCGA-12-5301-01;Glioblastoma Multiforme;44;GBM;2;1:DECEASED;1;Primary;Male;Matched;59.6
+gbm_tcga_pub2013;TCGA-14-0740;TCGA-14-0740-01;Glioblastoma Multiforme;32;GBM;12;1:DECEASED;1;Primary;Male;Matched;70.2
+gbm_tcga_pub2013;TCGA-14-0781;TCGA-14-0781-01;Glioblastoma Multiforme;21;GBM;1;1:DECEASED;1;Primary;Male;Matched;49
+gbm_tcga_pub2013;TCGA-14-1043;TCGA-14-1043-01;Glioblastoma Multiforme;16;GBM;0.8;1:DECEASED;1;Primary;Male;Matched;61.3
+gbm_tcga_pub2013;TCGA-14-1450;TCGA-14-1450-01;Glioblastoma Multiforme;46;GBM;58.8;0:LIVING;1;Primary;Male;Matched;57.4
+gbm_tcga_pub2013;TCGA-14-3476;TCGA-14-3476-01;Glioblastoma Multiforme;52;GBM;0.4;1:DECEASED;1;Primary;Male;Matched;74.4
+gbm_tcga_pub2013;TCGA-16-1045;TCGA-16-1045-01;Glioblastoma Multiforme;61;GBM;29;1:DECEASED;1;Primary;Female;Matched;49.8
+gbm_tcga_pub2013;TCGA-19-1790;TCGA-19-1790-01;Glioblastoma Multiforme;111;GBM;5;1:DECEASED;1;Primary;Male;Matched;56.5
+gbm_tcga_pub2013;TCGA-19-2624;TCGA-19-2624-01;Glioblastoma Multiforme;34;GBM;0.2;1:DECEASED;1;Primary;Male;Matched;51.7
+gbm_tcga_pub2013;TCGA-19-2631;TCGA-19-2631-01;Glioblastoma Multiforme;69;GBM;7;1:DECEASED;1;Primary;Female;Matched;74.5
+gbm_tcga_pub2013;TCGA-19-5951;TCGA-19-5951-01;Glioblastoma Multiforme;47;GBM;8;1:DECEASED;1;Primary;Male;Matched;76.7
+gbm_tcga_pub2013;TCGA-19-5954;TCGA-19-5954-01;Glioblastoma Multiforme;45;GBM;8;0:LIVING;1;Primary;Female;Matched;72.2
+gbm_tcga_pub2013;TCGA-27-1834;TCGA-27-1834-01;Glioblastoma Multiforme;34;GBM;40.5;1:DECEASED;1;Primary;Male;Matched;56.3
+gbm_tcga_pub2013;TCGA-27-1837;TCGA-27-1837-01;Glioblastoma Multiforme;28;GBM;14;1:DECEASED;1;Primary;Male;Matched;36.6
+gbm_tcga_pub2013;TCGA-28-2502;TCGA-28-2502-01;Glioblastoma Multiforme;36;GBM;0.7;0:LIVING;1;Primary;Male;Matched;65.2
+gbm_tcga_pub2013;TCGA-28-5215;TCGA-28-5215-01;Glioblastoma Multiforme;20;GBM;11;1:DECEASED;1;Primary;Female;Matched;62.1
+gbm_tcga_pub2013;TCGA-32-1977;TCGA-32-1977-01;Glioblastoma Multiforme;64;GBM;0.1;0:LIVING;1;Primary;Female;Matched;63.5
+gbm_tcga_pub2013;TCGA-32-2495;TCGA-32-2495-01;Glioblastoma Multiforme;64;GBM;15;1:DECEASED;1;Primary;Female;Matched;59.9
+gbm_tcga_pub2013;TCGA-41-2571;TCGA-41-2571-01;Glioblastoma Multiforme;31;GBM;0.9;1:DECEASED;1;Primary;Male;Matched;89.3
+gbm_tcga_pub2013;TCGA-41-3392;TCGA-41-3392-01;Glioblastoma Multiforme;49;GBM;1;1:DECEASED;1;Primary;Male;Matched;88.6
+gbm_tcga_pub2013;TCGA-41-3915;TCGA-41-3915-01;Glioblastoma Multiforme;36;GBM;6;0:LIVING;1;Primary;Male;Matched;49
+gbm_tcga_pub2013;TCGA-41-4097;TCGA-41-4097-01;Glioblastoma Multiforme;51;GBM;0.2;1:DECEASED;1;Primary;Female;Matched;63.3
+gbm_tcga_pub2013;TCGA-76-4932;TCGA-76-4932-01;Glioblastoma Multiforme;41;GBM;47.9;1:DECEASED;1;Primary;Female;Matched;50.5
+gbm_tcga_pub2013;TCGA-87-5896;TCGA-87-5896-01;Glioblastoma Multiforme;31;GBM;0.1;0:LIVING;1;Primary;Female;Matched;50.4
+lgg_tcga;TCGA-CS-4938;TCGA-CS-4938-01;Astrocytoma;14;ASTR;117.41;0:LIVING;1;Primary;Female;Matched;31
+lgg_tcga;TCGA-CS-4942;TCGA-CS-4942-01;Anaplastic Astrocytoma;19;AASTR;43.86;1:DECEASED;1;Primary;Female;Matched;44
+lgg_tcga;TCGA-CS-4943;TCGA-CS-4943-01;Anaplastic Astrocytoma;21;AASTR;36.33;1:DECEASED;1;Primary;Male;Matched;37
+lgg_tcga;TCGA-CS-4944;TCGA-CS-4944-01;Astrocytoma;19;ASTR;60.05;0:LIVING;1;Primary;Male;Matched;50
+lgg_tcga;TCGA-CS-5390;TCGA-CS-5390-01;Oligodendroglioma;30;ODG;64.60;1:DECEASED;1;Primary;Female;Matched;47
+lgg_tcga;TCGA-CS-5393;TCGA-CS-5393-01;Anaplastic Astrocytoma;21;AASTR;40.14;0:LIVING;1;Primary;Male;Matched;39
+lgg_tcga;TCGA-CS-5394;TCGA-CS-5394-01;Anaplastic Astrocytoma;20;AASTR;0.26;0:LIVING;1;Primary;Male;Matched;40
+lgg_tcga;TCGA-CS-5395;TCGA-CS-5395-01;Oligodendroglioma;35;ODG;20.99;1:DECEASED;1;Primary;Male;Matched;43
+lgg_tcga;TCGA-CS-5396;TCGA-CS-5396-01;Anaplastic Oligoastrocytoma;23;AOAST;53.58;0:LIVING;1;Primary;Female;Matched;53
+lgg_tcga;TCGA-CS-6186;TCGA-CS-6186-01;Oligoastrocytoma;44;OAST;17.67;1:DECEASED;1;Primary;Male;Matched;58
+lgg_tcga;TCGA-CS-6188;TCGA-CS-6188-01;Anaplastic Astrocytoma;30;AASTR;26.74;1:DECEASED;1;Primary;Male;Matched;48
+lgg_tcga;TCGA-CS-6290;TCGA-CS-6290-01;Anaplastic Astrocytoma;16;AASTR;37.35;1:DECEASED;1;Primary;Male;Matched;31
+lgg_tcga;TCGA-CS-6665;TCGA-CS-6665-01;Anaplastic Astrocytoma;58;AASTR;51.51;0:LIVING;1;Primary;Female;Matched;51
+lgg_tcga;TCGA-CS-6666;TCGA-CS-6666-01;Anaplastic Astrocytoma;26;AASTR;46.91;0:LIVING;1;Primary;Male;Matched;22
+lgg_tcga;TCGA-CS-6667;TCGA-CS-6667-01;Astrocytoma;19;ASTR;48.26;0:LIVING;1;Primary;Female;Matched;39
+lgg_tcga;TCGA-CS-6668;TCGA-CS-6668-01;Oligodendroglioma;18;ODG;49.9;0:LIVING;1;Primary;Female;Matched;57
+lgg_tcga;TCGA-DB-5273;TCGA-DB-5273-01;Anaplastic Astrocytoma;11;AASTR;81.9;0:LIVING;1;Primary;Male;Matched;33
+lgg_tcga;TCGA-DB-5274;TCGA-DB-5274-01;Oligoastrocytoma;33;OAST;75.2;0:LIVING;1;Primary;Female;Matched;37
+lgg_tcga;TCGA-DB-5275;TCGA-DB-5275-01;Oligoastrocytoma;30;OAST;47.9;0:LIVING;1;Primary;Male;Matched;36
+lgg_tcga;TCGA-DB-5276;TCGA-DB-5276-01;Oligoastrocytoma;13;OAST;72.86;0:LIVING;1;Primary;Male;Matched;32
+lgg_tcga;TCGA-DB-5277;TCGA-DB-5277-01;Anaplastic Astrocytoma;31;AASTR;50.82;1:DECEASED;1;Primary;Male;Matched;34
+lgg_tcga;TCGA-DB-5278;TCGA-DB-5278-01;Oligodendroglioma;7;ODG;91.06;0:LIVING;1;Primary;Male;Matched;17
+lgg_tcga;TCGA-DB-5279;TCGA-DB-5279-01;Oligodendroglioma;34;ODG;44.48;0:LIVING;1;Primary;Male;Matched;59
+lgg_tcga;TCGA-DB-5280;TCGA-DB-5280-01;Oligoastrocytoma;19;OAST;36.53;0:LIVING;1;Primary;Male;Matched;43
+lgg_tcga;TCGA-DB-5281;TCGA-DB-5281-01;Oligoastrocytoma;46;OAST;78.22;0:LIVING;1;Primary;Male;Matched;61
+lgg_tcga;TCGA-DB-A4X9;TCGA-DB-A4X9-01;Oligoastrocytoma;23;OAST;46.39;0:LIVING;1;Primary;Female;Matched;33
+lgg_tcga;TCGA-DB-A4XA;TCGA-DB-A4XA-01;Oligoastrocytoma;8;OAST;18.82;0:LIVING;1;Primary;Male;Matched;30
+lgg_tcga;TCGA-DB-A4XB;TCGA-DB-A4XB-01;Anaplastic Astrocytoma;25;AASTR;30.19;0:LIVING;1;Primary;Male;Matched;38
+lgg_tcga;TCGA-DB-A4XC;TCGA-DB-A4XC-01;Oligoastrocytoma;15;OAST;46.68;0:LIVING;1;Primary;Male;Matched;26
+lgg_tcga;TCGA-DB-A4XD;TCGA-DB-A4XD-01;Anaplastic Astrocytoma;28;AASTR;39.75;0:LIVING;1;Primary;Male;Matched;32
+lgg_tcga;TCGA-DB-A4XE;TCGA-DB-A4XE-01;Oligoastrocytoma;21;OAST;37.42;0:LIVING;1;Primary;Female;Matched;27
+lgg_tcga;TCGA-DB-A4XF;TCGA-DB-A4XF-01;Anaplastic Astrocytoma;17;AASTR;33.54;0:LIVING;1;Primary;Female;Matched;41
+lgg_tcga;TCGA-DB-A4XG;TCGA-DB-A4XG-01;Anaplastic Oligoastrocytoma;17;AOAST;72.9;0:LIVING;1;Primary;Male;Matched;34
+lgg_tcga;TCGA-DB-A4XH;TCGA-DB-A4XH-01;Oligoastrocytoma;30;OAST;31.6;0:LIVING;1;Primary;Female;Matched;53
+lgg_tcga;TCGA-DB-A64L;TCGA-DB-A64L-01;Oligodendroglioma;58;ODG;24.18;0:LIVING;1;Primary;Female;Matched;67
+lgg_tcga;TCGA-DB-A64O;TCGA-DB-A64O-01;Oligoastrocytoma;19;OAST;25.46;1:DECEASED;1;Primary;Male;Matched;59
+lgg_tcga;TCGA-DB-A64R;TCGA-DB-A64R-01;Oligodendroglioma;13;ODG;31.37;0:LIVING;1;Primary;Female;Matched;24
+lgg_tcga;TCGA-DB-A64S;TCGA-DB-A64S-01;Oligoastrocytoma;10;OAST;27.43;0:LIVING;1;Primary;Male;Matched;20
+lgg_tcga;TCGA-DB-A64U;TCGA-DB-A64U-01;Oligoastrocytoma;7;OAST;27.79;0:LIVING;1;Primary;Female;Matched;38
+lgg_tcga;TCGA-DB-A64V;TCGA-DB-A64V-01;Oligodendroglioma;21;ODG;29.2;0:LIVING;1;Primary;Male;Matched;54
+lgg_tcga;TCGA-DB-A64W;TCGA-DB-A64W-01;Oligoastrocytoma;38;OAST;14.39;1:DECEASED;1;Primary;Female;Matched;65
+lgg_tcga;TCGA-DH-5140;TCGA-DH-5140-01;Oligoastrocytoma;21;OAST;19.94;1:DECEASED;1;Primary;Female;Matched;38
+lgg_tcga;TCGA-DH-5142;TCGA-DH-5142-01;Anaplastic Astrocytoma;26;AASTR;63.83;0:LIVING;1;Primary;Male;Matched;29
+lgg_tcga;TCGA-DH-5143;TCGA-DH-5143-01;Oligoastrocytoma;24;OAST;46.02;0:LIVING;1;Primary;Male;Matched;30
+lgg_tcga;TCGA-DH-5144;TCGA-DH-5144-01;Anaplastic Oligoastrocytoma;27;AOAST;24.57;0:LIVING;1;Primary;Female;Matched;56
+lgg_tcga;TCGA-DH-A66B;TCGA-DH-A66B-01;Anaplastic Astrocytoma;35;AASTR;42.02;0:LIVING;1;Primary;Male;Matched;52
+lgg_tcga;TCGA-DH-A66F;TCGA-DH-A66F-01;Oligodendroglioma;15;ODG;17.18;0:LIVING;1;Primary;Male;Matched;49
+lgg_tcga;TCGA-DU-5847;TCGA-DU-5847-01;Anaplastic Astrocytoma;33;AASTR;18;0:LIVING;1;Primary;Female;Matched;34
+lgg_tcga;TCGA-DU-5849;TCGA-DU-5849-01;Oligodendroglioma;25;ODG;14.55;0:LIVING;1;Primary;Male;Matched;48
+lgg_tcga;TCGA-DU-5851;TCGA-DU-5851-01;Oligoastrocytoma;18;OAST;17.44;0:LIVING;1;Primary;Female;Matched;40
+lgg_tcga;TCGA-DU-5853;TCGA-DU-5853-01;Oligoastrocytoma;14;OAST;13.37;0:LIVING;1;Primary;Male;Matched;29
+lgg_tcga;TCGA-DU-5870;TCGA-DU-5870-01;Oligodendroglioma;13;ODG;182.19;0:LIVING;2;Primary;Female;Matched;34
+lgg_tcga;TCGA-DU-5871;TCGA-DU-5871-01;Oligoastrocytoma;22;OAST;18.92;0:LIVING;1;Primary;Female;Matched;37
+lgg_tcga;TCGA-DU-5872;TCGA-DU-5872-01;Oligoastrocytoma;24;OAST;17.48;0:LIVING;2;Primary;Female;Matched;43
+lgg_tcga;TCGA-DU-5874;TCGA-DU-5874-01;Oligodendroglioma;33;ODG;15.14;0:LIVING;1;Primary;Female;Matched;62
+lgg_tcga;TCGA-DU-6393;TCGA-DU-6393-01;Anaplastic Oligoastrocytoma;25;AOAST;52.07;1:DECEASED;1;Primary;Male;Matched;66
+lgg_tcga;TCGA-DU-6395;TCGA-DU-6395-01;Oligoastrocytoma;19;OAST;48.98;1:DECEASED;1;Primary;Male;Matched;31
+lgg_tcga;TCGA-DU-6396;TCGA-DU-6396-01;Oligoastrocytoma;33;OAST;75.1;1:DECEASED;1;Primary;Female;Matched;31
+lgg_tcga;TCGA-DU-6397;TCGA-DU-6397-01;Anaplastic Oligoastrocytoma;23;AOAST;46.02;1:DECEASED;2;Primary;Male;Matched;45
+lgg_tcga;TCGA-DU-6399;TCGA-DU-6399-01;Oligodendroglioma;39;ODG;65.7;1:DECEASED;1;Primary;Male;Matched;54
+lgg_tcga;TCGA-DU-6401;TCGA-DU-6401-01;Oligodendroglioma;19;ODG;87.39;1:DECEASED;1;Primary;Female;Matched;31
+lgg_tcga;TCGA-DU-6404;TCGA-DU-6404-01;Anaplastic Oligoastrocytoma;11;AOAST;133.64;1:DECEASED;2;Primary;Female;Matched;24
+lgg_tcga;TCGA-DU-6405;TCGA-DU-6405-01;Anaplastic Astrocytoma;47;AASTR;19.88;1:DECEASED;1;Primary;Female;Matched;51
+lgg_tcga;TCGA-DU-6407;TCGA-DU-6407-01;Oligodendroglioma;17;ODG;94.45;1:DECEASED;2;Primary;Female;Matched;35
+lgg_tcga;TCGA-DU-6408;TCGA-DU-6408-01;Anaplastic Oligoastrocytoma;17;AOAST;113.99;1:DECEASED;1;Primary;Female;Matched;23
+lgg_tcga;TCGA-DU-7007;TCGA-DU-7007-01;Astrocytoma;27;ASTR;62.91;1:DECEASED;1;Primary;Male;Matched;33
+lgg_tcga;TCGA-DU-7008;TCGA-DU-7008-01;Oligodendroglioma;22;ODG;156.11;0:LIVING;1;Primary;Female;Matched;41
+lgg_tcga;TCGA-DU-7009;TCGA-DU-7009-01;Oligodendroglioma;13;ODG;154.24;1:DECEASED;1;Primary;Female;Matched;32
+lgg_tcga;TCGA-DU-7010;TCGA-DU-7010-01;Anaplastic Astrocytoma;82;AASTR;14.98;1:DECEASED;1;Primary;Female;Matched;58
+lgg_tcga;TCGA-DU-7015;TCGA-DU-7015-01;Oligodendroglioma;27;ODG;90.7;0:LIVING;1;Primary;Female;Matched;41
+lgg_tcga;TCGA-DU-7018;TCGA-DU-7018-01;Anaplastic Oligoastrocytoma;29;AOAST;30.65;1:DECEASED;1;Primary;Female;Matched;57
+lgg_tcga;TCGA-DU-7019;TCGA-DU-7019-01;Oligoastrocytoma;22;OAST;26.28;0:LIVING;1;Primary;Male;Matched;39
+lgg_tcga;TCGA-DU-7294;TCGA-DU-7294-01;Oligodendroglioma;19;ODG;94.25;0:LIVING;1;Primary;Female;Matched;53
+lgg_tcga;TCGA-DU-7298;TCGA-DU-7298-01;Anaplastic Astrocytoma;28;AASTR;18.92;1:DECEASED;1;Primary;Female;Matched;38
+lgg_tcga;TCGA-DU-7299;TCGA-DU-7299-01;Anaplastic Astrocytoma;23;AASTR;43.99;1:DECEASED;1;Primary;Male;Matched;33
+lgg_tcga;TCGA-DU-7300;TCGA-DU-7300-01;Anaplastic Oligoastrocytoma;41;AOAST;61.96;1:DECEASED;1;Primary;Female;Matched;53
+lgg_tcga;TCGA-DU-7301;TCGA-DU-7301-01;Oligodendroglioma;23;ODG;25.89;1:DECEASED;1;Primary;Male;Matched;53
+lgg_tcga;TCGA-DU-7302;TCGA-DU-7302-01;Anaplastic Oligoastrocytoma;27;AOAST;60.25;0:LIVING;1;Primary;Female;Matched;48
+lgg_tcga;TCGA-DU-7304;TCGA-DU-7304-01;Oligoastrocytoma;23;OAST;23.29;1:DECEASED;2;Primary;Male;Matched;43
+lgg_tcga;TCGA-DU-7306;TCGA-DU-7306-01;Oligoastrocytoma;46;OAST;41.95;0:LIVING;1;Primary;Male;Matched;67
+lgg_tcga;TCGA-DU-8161;TCGA-DU-8161-01;Oligoastrocytoma;33;OAST;23.72;1:DECEASED;1;Primary;Female;Matched;63
+lgg_tcga;TCGA-DU-8162;TCGA-DU-8162-01;Oligoastrocytoma;18;OAST;14.59;1:DECEASED;1;Primary;Female;Matched;61
+lgg_tcga;TCGA-DU-8163;TCGA-DU-8163-01;Oligoastrocytoma;12;OAST;20.66;0:LIVING;1;Primary;Male;Matched;29
+lgg_tcga;TCGA-DU-8164;TCGA-DU-8164-01;Oligodendroglioma;27;ODG;21.39;0:LIVING;1;Primary;Male;Matched;51
+lgg_tcga;TCGA-DU-8166;TCGA-DU-8166-01;Oligoastrocytoma;24;OAST;16.95;0:LIVING;1;Primary;Female;Matched;29
+lgg_tcga;TCGA-DU-8167;TCGA-DU-8167-01;Oligoastrocytoma;39;OAST;15.47;0:LIVING;1;Primary;Female;Matched;69
+lgg_tcga;TCGA-DU-8168;TCGA-DU-8168-01;Anaplastic Oligoastrocytoma;47;AOAST;14.16;0:LIVING;1;Primary;Female;Matched;55
+lgg_tcga;TCGA-DU-A5TP;TCGA-DU-A5TP-01;Anaplastic Astrocytoma;22;AASTR;33.25;0:LIVING;1;Primary;Male;Matched;33
+lgg_tcga;TCGA-DU-A5TR;TCGA-DU-A5TR-01;Oligoastrocytoma;33;OAST;29.83;0:LIVING;1;Primary;Male;Matched;51
+lgg_tcga;TCGA-DU-A5TS;TCGA-DU-A5TS-01;Oligodendroglioma;31;ODG;31.67;0:LIVING;1;Primary;Male;Matched;42
+lgg_tcga;TCGA-DU-A5TT;TCGA-DU-A5TT-01;Anaplastic Oligoastrocytoma;42;AOAST;24.41;0:LIVING;1;Primary;Male;Matched;70
+lgg_tcga;TCGA-DU-A5TU;TCGA-DU-A5TU-01;Astrocytoma;29;ASTR;26.15;0:LIVING;1;Primary;Female;Matched;62
+lgg_tcga;TCGA-DU-A5TW;TCGA-DU-A5TW-01;Anaplastic Astrocytoma;36;AASTR;24.97;0:LIVING;1;Primary;Female;Matched;33
+lgg_tcga;TCGA-DU-A5TY;TCGA-DU-A5TY-01;Anaplastic Astrocytoma;40;AASTR;33.94;1:DECEASED;1;Primary;Female;Matched;46
+lgg_tcga;TCGA-E1-5302;TCGA-E1-5302-01;Anaplastic Astrocytoma;25;AASTR;50.1;1:DECEASED;1;Primary;Male;Matched;41
+lgg_tcga;TCGA-E1-5303;TCGA-E1-5303-01;Anaplastic Astrocytoma;25;AASTR;67.41;1:DECEASED;1;Primary;Male;Matched;38
+lgg_tcga;TCGA-E1-5304;TCGA-E1-5304-01;Anaplastic Astrocytoma;28;AASTR;41.1;1:DECEASED;1;Primary;Male;Matched;42
+lgg_tcga;TCGA-E1-5305;TCGA-E1-5305-01;Anaplastic Astrocytoma;24;AASTR;79.93;1:DECEASED;1;Primary;Male;Matched;34
+lgg_tcga;TCGA-E1-5307;TCGA-E1-5307-01;Anaplastic Astrocytoma;53;AASTR;57.88;1:DECEASED;1;Primary;Female;Matched;62
+lgg_tcga;TCGA-E1-5311;TCGA-E1-5311-01;Anaplastic Oligoastrocytoma;13;AOAST;134.17;1:DECEASED;1;Primary;Male;Matched;31
+lgg_tcga;TCGA-E1-5318;TCGA-E1-5318-01;Oligodendroglioma;31;ODG;78.15;1:DECEASED;1;Primary;Female;Matched;42
+lgg_tcga;TCGA-E1-5319;TCGA-E1-5319-01;Oligodendroglioma;29;ODG;95.5;1:DECEASED;1;Primary;Female;Matched;48
+lgg_tcga;TCGA-E1-5322;TCGA-E1-5322-01;Oligoastrocytoma;19;OAST;130.68;1:DECEASED;1;Primary;Female;Matched;38
+lgg_tcga;TCGA-EZ-7264;TCGA-EZ-7264-01;Oligodendroglioma;21;ODG;39.45;0:LIVING;1;Primary;Female;Matched;47
+lgg_tcga;TCGA-FG-5962;TCGA-FG-5962-01;Anaplastic Oligoastrocytoma;31;AOAST;47.73;0:LIVING;1;Primary;Male;Matched;54
+lgg_tcga;TCGA-FG-5963;TCGA-FG-5963-01;Anaplastic Astrocytoma;24;AASTR;25.46;1:DECEASED;2;Primary;Male;Matched;23
+lgg_tcga;TCGA-FG-5964;TCGA-FG-5964-01;Oligodendroglioma;30;ODG;52.17;0:LIVING;1;Primary;Male;Matched;62
+lgg_tcga;TCGA-FG-5965;TCGA-FG-5965-01;Oligoastrocytoma;34;OAST;36.79;1:DECEASED;2;Primary;Female;Matched;39
+lgg_tcga;TCGA-FG-6688;TCGA-FG-6688-01;Anaplastic Astrocytoma;51;AASTR;18.76;0:LIVING;1;Primary;Female;Matched;59
+lgg_tcga;TCGA-FG-6689;TCGA-FG-6689-01;Astrocytoma;16;ASTR;14.91;0:LIVING;1;Primary;Male;Matched;30
+lgg_tcga;TCGA-FG-6690;TCGA-FG-6690-01;Oligodendroglioma;23;ODG;42.51;0:LIVING;1;Primary;Male;Matched;70
+lgg_tcga;TCGA-FG-6691;TCGA-FG-6691-01;Astrocytoma;10;ASTR;41.29;0:LIVING;1;Primary;Female;Matched;23
+lgg_tcga;TCGA-FG-6692;TCGA-FG-6692-01;Anaplastic Oligoastrocytoma;59;AOAST;18.43;1:DECEASED;1;Primary;Male;Matched;63
+lgg_tcga;TCGA-FG-7634;TCGA-FG-7634-01;Oligodendroglioma;15;ODG;15.34;0:LIVING;1;Primary;Male;Matched;28
+lgg_tcga;TCGA-FG-7636;TCGA-FG-7636-01;Anaplastic Astrocytoma;35;AASTR;17.87;0:LIVING;1;Primary;Male;Matched;48
+lgg_tcga;TCGA-FG-7637;TCGA-FG-7637-01;Oligoastrocytoma;26;OAST;40.05;0:LIVING;1;Primary;Male;Matched;49
+lgg_tcga;TCGA-FG-7638;TCGA-FG-7638-01;Anaplastic Oligoastrocytoma;10;AOAST;22.54;0:LIVING;1;Primary;Female;Matched;31
+lgg_tcga;TCGA-FG-8182;TCGA-FG-8182-01;Oligodendroglioma;22;ODG;13.67;0:LIVING;1;Primary;Male;Matched;35
+lgg_tcga;TCGA-FG-8185;TCGA-FG-8185-01;Anaplastic Astrocytoma;29;AASTR;14.22;0:LIVING;1;Primary;Male;Matched;37
+lgg_tcga;TCGA-FG-8186;TCGA-FG-8186-01;Oligoastrocytoma;20;OAST;16;0:LIVING;1;Primary;Female;Matched;42
+lgg_tcga;TCGA-FG-8188;TCGA-FG-8188-01;Oligoastrocytoma;22;OAST;14.95;0:LIVING;1;Primary;Male;Matched;41
+lgg_tcga;TCGA-FG-8191;TCGA-FG-8191-01;Anaplastic Oligoastrocytoma;19;AOAST;32.59;0:LIVING;1;Primary;Male;Matched;30
+lgg_tcga;TCGA-FG-A4MT;TCGA-FG-A4MT-01;Oligodendroglioma;17;ODG;38.24;0:LIVING;2;Primary;Female;Matched;27
+lgg_tcga;TCGA-FG-A4MW;TCGA-FG-A4MW-01;Oligoastrocytoma;54;OAST;18.36;1:DECEASED;1;Primary;Male;Matched;63
+lgg_tcga;TCGA-FG-A4MX;TCGA-FG-A4MX-01;Astrocytoma;19;ASTR;18.69;0:LIVING;1;Primary;Male;Matched;47
+lgg_tcga;TCGA-FG-A4MY;TCGA-FG-A4MY-01;Oligoastrocytoma;23;OAST;23.69;0:LIVING;1;Primary;Female;Matched;44
+lgg_tcga;TCGA-FG-A60J;TCGA-FG-A60J-01;Oligoastrocytoma;31;OAST;14.75;0:LIVING;1;Primary;Female;Matched;47
+lgg_tcga;TCGA-FG-A60K;TCGA-FG-A60K-01;Oligoastrocytoma;18;OAST;17.81;0:LIVING;1;Primary;Female;Matched;34
+lgg_tcga;TCGA-HT-7467;TCGA-HT-7467-01;Oligodendroglioma;24;ODG;0.1;0:LIVING;1;Primary;Male;Matched;54
+lgg_tcga;TCGA-HT-7470;TCGA-HT-7470-01;Anaplastic Oligoastrocytoma;33;AOAST;40.08;1:DECEASED;1;Primary;Male;Matched;37
+lgg_tcga;TCGA-HT-7471;TCGA-HT-7471-01;Anaplastic Oligoastrocytoma;15;AOAST;0.13;0:LIVING;1;Primary;Female;Matched;37
+lgg_tcga;TCGA-HT-7472;TCGA-HT-7472-01;Oligodendroglioma;15;ODG;0.03;0:LIVING;1;Primary;Male;Matched;38
+lgg_tcga;TCGA-HT-7473;TCGA-HT-7473-01;Oligoastrocytoma;13;OAST;16.52;0:LIVING;1;Primary;Male;Matched;28
+lgg_tcga;TCGA-HT-7475;TCGA-HT-7475-01;Oligoastrocytoma;39;OAST;17.41;0:LIVING;1;Primary;Male;Matched;67
+lgg_tcga;TCGA-HT-7477;TCGA-HT-7477-01;Anaplastic Astrocytoma;35;AASTR;24.24;0:LIVING;1;Primary;Male;Matched;62
+lgg_tcga;TCGA-HT-7479;TCGA-HT-7479-01;Anaplastic Astrocytoma;17;AASTR;40.31;0:LIVING;1;Primary;Male;Matched;44
+lgg_tcga;TCGA-HT-7480;TCGA-HT-7480-01;Oligodendroglioma;19;ODG;75.13;0:LIVING;1;Primary;Male;Matched;33
+lgg_tcga;TCGA-HT-7481;TCGA-HT-7481-01;Oligodendroglioma;27;ODG;95.86;0:LIVING;1;Primary;Male;Matched;39
+lgg_tcga;TCGA-HT-7482;TCGA-HT-7482-01;Oligoastrocytoma;13;OAST;106.87;0:LIVING;1;Primary;Female;Matched;18
+lgg_tcga;TCGA-HT-7483;TCGA-HT-7483-01;Oligoastrocytoma;13;OAST;172.63;0:LIVING;1;Primary;Male;Matched;14
+lgg_tcga;TCGA-HT-7602;TCGA-HT-7602-01;Oligodendroglioma;9;ODG;29.83;0:LIVING;1;Primary;Male;Matched;21
+lgg_tcga;TCGA-HT-7603;TCGA-HT-7603-01;Oligodendroglioma;23;ODG;23.16;0:LIVING;1;Primary;Male;Matched;29
+lgg_tcga;TCGA-HT-7604;TCGA-HT-7604-01;Astrocytoma;36;ASTR;122.37;0:LIVING;1;Primary;Male;Matched;50
+lgg_tcga;TCGA-HT-7606;TCGA-HT-7606-01;Astrocytoma;21;ASTR;17.28;0:LIVING;1;Primary;Female;Matched;30
+lgg_tcga;TCGA-HT-7609;TCGA-HT-7609-01;Oligoastrocytoma;21;OAST;45.96;0:LIVING;1;Primary;Male;Matched;34
+lgg_tcga;TCGA-HT-7610;TCGA-HT-7610-01;Oligoastrocytoma;12;OAST;56.04;0:LIVING;1;Primary;Female;Matched;25
+lgg_tcga;TCGA-HT-7611;TCGA-HT-7611-01;Oligoastrocytoma;25;OAST;57.56;0:LIVING;1;Primary;Male;Matched;36
+lgg_tcga;TCGA-HT-7616;TCGA-HT-7616-01;Anaplastic Oligoastrocytoma;39;AOAST;0.23;1:DECEASED;1;Primary;Male;Matched;75
+lgg_tcga;TCGA-HT-7620;TCGA-HT-7620-01;Anaplastic Oligoastrocytoma;16;AOAST;14.26;0:LIVING;1;Primary;Male;Matched;40
+lgg_tcga;TCGA-HT-7676;TCGA-HT-7676-01;Oligodendroglioma;12;ODG;0.16;0:LIVING;1;Primary;Male;Matched;26
+lgg_tcga;TCGA-HT-7677;TCGA-HT-7677-01;Anaplastic Oligoastrocytoma;27;AOAST;16.23;0:LIVING;1;Primary;Male;Matched;53
+lgg_tcga;TCGA-HT-7680;TCGA-HT-7680-01;Astrocytoma;1;ASTR;0.76;0:LIVING;1;Primary;Female;Matched;32
+lgg_tcga;TCGA-HT-7681;TCGA-HT-7681-01;Oligoastrocytoma;11;OAST;44.65;0:LIVING;1;Primary;Female;Matched;29
+lgg_tcga;TCGA-HT-7686;TCGA-HT-7686-01;Anaplastic Astrocytoma;15;AASTR;42.71;0:LIVING;1;Primary;Female;Matched;29
+lgg_tcga;TCGA-HT-7687;TCGA-HT-7687-01;Anaplastic Oligoastrocytoma;30;AOAST;0.1;0:LIVING;1;Primary;Male;Matched;74
+lgg_tcga;TCGA-HT-7688;TCGA-HT-7688-01;Anaplastic Oligoastrocytoma;61;AOAST;31.67;0:LIVING;1;Primary;Male;Matched;59
+lgg_tcga;TCGA-HT-7689;TCGA-HT-7689-01;Oligodendroglioma;40;ODG;14.95;0:LIVING;1;Primary;Female;Matched;58
+lgg_tcga;TCGA-HT-7690;TCGA-HT-7690-01;Oligoastrocytoma;16;OAST;0.1;0:LIVING;1;Primary;Male;Matched;29
+lgg_tcga;TCGA-HT-7691;TCGA-HT-7691-01;Astrocytoma;5;ASTR;0.1;0:LIVING;1;Primary;Female;Matched;31
+lgg_tcga;TCGA-HT-7693;TCGA-HT-7693-01;Oligodendroglioma;24;ODG;17.51;0:LIVING;1;Primary;Female;Matched;51
+lgg_tcga;TCGA-HT-7695;TCGA-HT-7695-01;Oligodendroglioma;14;ODG;14.52;0:LIVING;1;Primary;Female;Matched;29
+lgg_tcga;TCGA-HT-7854;TCGA-HT-7854-01;Astrocytoma;22;ASTR;39.45;0:LIVING;1;Primary;Male;Matched;62
+lgg_tcga;TCGA-HT-7855;TCGA-HT-7855-01;Anaplastic Astrocytoma;30;AASTR;19.22;0:LIVING;1;Primary;Male;Matched;39
+lgg_tcga;TCGA-HT-7856;TCGA-HT-7856-01;Anaplastic Oligoastrocytoma;5;AOAST;39.06;0:LIVING;1;Primary;Male;Matched;35
+lgg_tcga;TCGA-HT-7857;TCGA-HT-7857-01;Anaplastic Astrocytoma;13;AASTR;0.23;0:LIVING;1;Primary;Female;Matched;24
+lgg_tcga;TCGA-HT-7858;TCGA-HT-7858-01;Astrocytoma;12;ASTR;50.59;0:LIVING;1;Primary;Male;Matched;28
+lgg_tcga;TCGA-HT-7860;TCGA-HT-7860-01;Anaplastic Astrocytoma;60;AASTR;0.49;0:LIVING;1;Primary;Female;Matched;60
+lgg_tcga;TCGA-HT-7873;TCGA-HT-7873-01;Oligoastrocytoma;20;OAST;23.59;0:LIVING;1;Primary;Male;Matched;29
+lgg_tcga;TCGA-HT-7874;TCGA-HT-7874-01;Anaplastic Oligoastrocytoma;18;AOAST;37.12;0:LIVING;1;Primary;Female;Matched;41
+lgg_tcga;TCGA-HT-7875;TCGA-HT-7875-01;Oligodendroglioma;27;ODG;0.33;0:LIVING;1;Primary;Male;Matched;56
+lgg_tcga;TCGA-HT-7877;TCGA-HT-7877-01;Oligodendroglioma;9;ODG;0.13;0:LIVING;1;Primary;Female;Matched;20
+lgg_tcga;TCGA-HT-7881;TCGA-HT-7881-01;Oligodendroglioma;10;ODG;35.45;0:LIVING;1;Primary;Male;Matched;38
+lgg_tcga;TCGA-HT-7902;TCGA-HT-7902-01;Oligoastrocytoma;17;OAST;31.41;0:LIVING;1;Primary;Female;Matched;30
+lgg_tcga;TCGA-HT-8011;TCGA-HT-8011-01;Anaplastic Astrocytoma;38;AASTR;16.23;0:LIVING;1;Primary;Male;Matched;55
+lgg_tcga;TCGA-HT-8013;TCGA-HT-8013-01;Oligoastrocytoma;25;OAST;63.5;1:DECEASED;1;Primary;Female;Matched;37
+lgg_tcga;TCGA-HT-8015;TCGA-HT-8015-01;Astrocytoma;1;ASTR;0.1;0:LIVING;1;Primary;Male;Matched;21
+lgg_tcga;TCGA-HT-8018;TCGA-HT-8018-01;Oligoastrocytoma;14;OAST;37.84;1:DECEASED;1;Primary;Female;Matched;40
+lgg_tcga;TCGA-HT-8106;TCGA-HT-8106-01;Anaplastic Astrocytoma;23;AASTR;0.1;0:LIVING;1;Primary;Male;Matched;53
+lgg_tcga;TCGA-HT-8110;TCGA-HT-8110-01;Anaplastic Astrocytoma;24;AASTR;13.76;0:LIVING;1;Primary;Male;Matched;57
+lgg_tcga;TCGA-HT-8111;TCGA-HT-8111-01;Oligoastrocytoma;8;OAST;0.23;0:LIVING;1;Primary;Male;Matched;32
+lgg_tcga;TCGA-HT-8113;TCGA-HT-8113-01;Oligodendroglioma;16;ODG;29.57;0:LIVING;1;Primary;Female;Matched;49
+lgg_tcga;TCGA-HT-8114;TCGA-HT-8114-01;Oligoastrocytoma;13;OAST;34.17;0:LIVING;1;Primary;Male;Matched;36
+lgg_tcga;TCGA-HT-8558;TCGA-HT-8558-01;Oligodendroglioma;1;ODG;13.73;0:LIVING;1;Primary;Female;Matched;29
+lgg_tcga;TCGA-HT-8563;TCGA-HT-8563-01;Anaplastic Astrocytoma;20;AASTR;28.25;0:LIVING;1;Primary;Female;Matched;30
+lgg_tcga;TCGA-HT-A4DS;TCGA-HT-A4DS-01;Anaplastic Astrocytoma;31;AASTR;0.23;0:LIVING;1;Primary;Female;Matched;55
+lgg_tcga;TCGA-HT-A5R5;TCGA-HT-A5R5-01;Oligodendroglioma;17;ODG;0.13;0:LIVING;1;Primary;Female;Matched;33
+lgg_tcga;TCGA-HT-A5R9;TCGA-HT-A5R9-01;Anaplastic Oligoastrocytoma;32;AOAST;0.07;0:LIVING;1;Primary;Female;Matched;48
+lgg_tcga;TCGA-HT-A5RA;TCGA-HT-A5RA-01;Anaplastic Astrocytoma;39;AASTR;27.33;0:LIVING;1;Primary;Female;Matched;65
+lgg_tcga;TCGA-HT-A5RB;TCGA-HT-A5RB-01;Astrocytoma;14;ASTR;0.1;0:LIVING;1;Primary;Male;Matched;24
+lgg_tcga;TCGA-HT-A615;TCGA-HT-A615-01;Oligodendroglioma;29;ODG;16.92;0:LIVING;1;Primary;Female;Matched;38
+lgg_tcga;TCGA-HT-A617;TCGA-HT-A617-01;Oligodendroglioma;15;ODG;16.13;0:LIVING;1;Primary;Male;Matched;47
+lgg_tcga;TCGA-HT-A618;TCGA-HT-A618-01;Anaplastic Astrocytoma;17;AASTR;16.82;0:LIVING;1;Primary;Female;Matched;37
+lgg_tcga;TCGA-HT-A619;TCGA-HT-A619-01;Anaplastic Oligoastrocytoma;42;AOAST;21.39;0:LIVING;1;Primary;Female;Matched;51
+lgg_tcga;TCGA-HT-A61B;TCGA-HT-A61B-01;Anaplastic Astrocytoma;35;AASTR;17.51;0:LIVING;1;Primary;Male;Matched;22
+lgg_tcga;TCGA-HT-A61C;TCGA-HT-A61C-01;Anaplastic Oligoastrocytoma;36;AOAST;17.64;1:DECEASED;1;Primary;Male;Matched;66
+lgg_tcga;TCGA-HW-7486;TCGA-HW-7486-01;Oligodendroglioma;7;ODG;56.54;0:LIVING;1;Primary;Male;Matched;37
+lgg_tcga;TCGA-HW-7487;TCGA-HW-7487-01;Oligodendroglioma;13;ODG;45.4;0:LIVING;1;Primary;Male;Matched;39
+lgg_tcga;TCGA-HW-7489;TCGA-HW-7489-01;Oligoastrocytoma;12;OAST;41.46;1:DECEASED;1;Primary;Male;Matched;38
+lgg_tcga;TCGA-HW-7490;TCGA-HW-7490-01;Astrocytoma;32;ASTR;45.57;0:LIVING;1;Primary;Male;Matched;41
+lgg_tcga;TCGA-HW-7491;TCGA-HW-7491-01;Oligodendroglioma;12;ODG;68.27;0:LIVING;1;Primary;Male;Matched;35
+lgg_tcga;TCGA-HW-7495;TCGA-HW-7495-01;Oligodendroglioma;11;ODG;35.41;0:LIVING;1;Primary;Female;Matched;45
+lgg_tcga;TCGA-HW-8319;TCGA-HW-8319-01;Anaplastic Astrocytoma;26;AASTR;39.72;1:DECEASED;1;Primary;Female;Matched;34
+lgg_tcga;TCGA-HW-8320;TCGA-HW-8320-01;Anaplastic Astrocytoma;19;AASTR;39.98;0:LIVING;1;Primary;Male;Matched;36
+lgg_tcga;TCGA-HW-8321;TCGA-HW-8321-01;Astrocytoma;24;ASTR;42.51;0:LIVING;1;Primary;Male;Matched;31
+lgg_tcga;TCGA-HW-A5KJ;TCGA-HW-A5KJ-01;Anaplastic Oligoastrocytoma;39;AOAST;31.6;1:DECEASED;1;Primary;Male;Matched;68
+lgg_tcga;TCGA-HW-A5KL;TCGA-HW-A5KL-01;Astrocytoma;16;ASTR;28.84;0:LIVING;1;Primary;Female;Matched;42
+lgg_tcga;TCGA-IK-7675;TCGA-IK-7675-01;Oligodendroglioma;37;ODG;18.99;1:DECEASED;1;Primary;Male;Matched;43
+lgg_tcga;TCGA-IK-8125;TCGA-IK-8125-01;Oligoastrocytoma;43;OAST;42.74;0:LIVING;1;Primary;Male;Matched;62
+lgg_tcga;TCGA-P5-A5ET;TCGA-P5-A5ET-01;Oligodendroglioma;21;ODG;0;0:LIVING;1;Primary;Male;Matched;27
+lgg_tcga;TCGA-P5-A5EU;TCGA-P5-A5EU-01;Anaplastic Astrocytoma;21;AASTR;0;0:LIVING;1;Primary;Male;Matched;35
+lgg_tcga;TCGA-P5-A5EV;TCGA-P5-A5EV-01;Astrocytoma;68;ASTR;0.23;0:LIVING;1;Primary;Male;Matched;39
+pcpg_tcga;TCGA-P7-A5NX;TCGA-P7-A5NX-01;Miscellaneous Neuroepithelial Tumor;27;MNET;26.8931;0:LIVING;1;Primary;Female;Matched;78
+pcpg_tcga;TCGA-P7-A5NY;TCGA-P7-A5NY-01;Pheochromocytoma;12;PHC;31.463;0:LIVING;2;Primary;Female;Matched;21
+pcpg_tcga;TCGA-P7-A5NY;TCGA-P7-A5NY-05;Miscellaneous Neuroepithelial Tumor;8;MNET;31.463;0:LIVING;2;Primary;Female;Matched;21
+pcpg_tcga;TCGA-P8-A5KC;TCGA-P8-A5KC-01;Pheochromocytoma;18;PHC;29.0301;0:LIVING;1;Primary;Male;Matched;48
+pcpg_tcga;TCGA-P8-A5KD;TCGA-P8-A5KD-01;Pheochromocytoma;9;PHC;4.04383;0:LIVING;1;Primary;Female;Matched;35
+pcpg_tcga;TCGA-P8-A6RX;TCGA-P8-A6RX-01;Paraganglioma;25;PGNG;17.7532301;0:LIVING;1;Primary;Male;Matched;65
+pcpg_tcga;TCGA-P8-A6RY;TCGA-P8-A6RY-01;Pheochromocytoma;6;PHC;5.884867015;0:LIVING;1;Primary;Male;Matched;55
+pcpg_tcga;TCGA-PR-A5PF;TCGA-PR-A5PF-01;Pheochromocytoma;22;PHC;17.95048821;0:LIVING;1;Primary;Female;Matched;62
+pcpg_tcga;TCGA-PR-A5PG;TCGA-PR-A5PG-01;Pheochromocytoma;18;PHC;81.69773482;0:LIVING;1;Primary;Female;Matched;42
+pcpg_tcga;TCGA-PR-A5PH;TCGA-PR-A5PH-01;Pheochromocytoma;15;PHC;28.07640464;0:LIVING;1;Primary;Male;Matched;47
+pcpg_tcga;TCGA-QR-A6GO;TCGA-QR-A6GO-01;Pheochromocytoma;16;PHC;35.01331492;0:LIVING;1;Primary;Male;Matched;43
+pcpg_tcga;TCGA-QR-A6GR;TCGA-QR-A6GR-01;Pheochromocytoma;20;PHC;23.11207548;0:LIVING;1;Primary;Female;Matched;30
+pcpg_tcga;TCGA-QR-A6GS;TCGA-QR-A6GS-01;Pheochromocytoma;14;PHC;1.249301378;0:LIVING;1;Primary;Female;Matched;51
+pcpg_tcga;TCGA-QR-A6GT;TCGA-QR-A6GT-01;Pheochromocytoma;31;PHC;137.5875333;0:LIVING;1;Primary;Female;Matched;63
+pcpg_tcga;TCGA-QR-A6GU;TCGA-QR-A6GU-01;Pheochromocytoma;26;PHC;58.8815465;0:LIVING;1;Primary;Male;Matched;31
+pcpg_tcga;TCGA-QR-A6GW;TCGA-QR-A6GW-01;Pheochromocytoma;18;PHC;16.14228885;0:LIVING;1;Primary;Female;Matched;53
+pcpg_tcga;TCGA-QR-A6GX;TCGA-QR-A6GX-01;Pheochromocytoma;16;PHC;19.03540783;0:LIVING;1;Primary;Female;Matched;28
+pcpg_tcga;TCGA-QR-A6GY;TCGA-QR-A6GY-01;Pheochromocytoma;22;PHC;1.052043265;0:LIVING;1;Primary;Female;Matched;37
+pcpg_tcga;TCGA-QR-A6GZ;TCGA-QR-A6GZ-01;Pheochromocytoma;12;PHC;30.50925469;0:LIVING;2;Primary;Male;Matched;31
+pcpg_tcga;TCGA-QR-A6GZ;TCGA-QR-A6GZ-05;Miscellaneous Neuroepithelial Tumor;6;MNET;30.50925469;0:LIVING;2;Primary;Male;Matched;31
+pcpg_tcga;TCGA-QR-A6H0;TCGA-QR-A6H0-01;Paraganglioma;12;PGNG;9.205378571;0:LIVING;1;Primary;Male;Matched;53
+pcpg_tcga;TCGA-QR-A6H1;TCGA-QR-A6H1-01;Pheochromocytoma;24;PHC;14.16970773;0:LIVING;1;Primary;Male;Matched;55
+pcpg_tcga;TCGA-QR-A6H2;TCGA-QR-A6H2-01;Pheochromocytoma;13;PHC;9.928658316;0:LIVING;1;Primary;Male;Matched;33
+pcpg_tcga;TCGA-QR-A6H3;TCGA-QR-A6H3-01;Paraganglioma;7;PGNG;14.26833679;0:LIVING;1;Primary;Male;Matched;41
+pcpg_tcga;TCGA-QR-A6H4;TCGA-QR-A6H4-01;Pheochromocytoma;23;PHC;87.48397278;0:LIVING;1;Primary;Female;Matched;56
+pcpg_tcga;TCGA-QR-A6H5;TCGA-QR-A6H5-01;Pheochromocytoma;11;PHC;31.52842161;0:LIVING;1;Primary;Female;Matched;30
+pcpg_tcga;TCGA-QR-A6H6;TCGA-QR-A6H6-01;Paraganglioma;13;PGNG;15.58339087;0:LIVING;1;Primary;Male;Matched;27
+pcpg_tcga;TCGA-QR-A6ZZ;TCGA-QR-A6ZZ-01;Pheochromocytoma;19;PHC;1.578064898;0:LIVING;1;Primary;Female;Matched;30
+pcpg_tcga;TCGA-QR-A700;TCGA-QR-A700-01;Pheochromocytoma;44;PHC;32.1530723;0:LIVING;1;Primary;Male;Matched;67
+pcpg_tcga;TCGA-QR-A702;TCGA-QR-A702-01;Paraganglioma;12;PGNG;1.28217773;0:LIVING;1;Primary;Female;Matched;75
+pcpg_tcga;TCGA-QR-A703;TCGA-QR-A703-01;Pheochromocytoma;11;PHC;38.36670283;0:LIVING;1;Primary;Male;Matched;23
+pcpg_tcga;TCGA-QR-A705;TCGA-QR-A705-01;Paraganglioma;12;PGNG;10.4218036;0:LIVING;1;Primary;Female;Matched;63
+pcpg_tcga;TCGA-QR-A706;TCGA-QR-A706-01;Paraganglioma;17;PGNG;4.109544005;0:LIVING;1;Primary;Female;Matched;50
+pcpg_tcga;TCGA-QR-A707;TCGA-QR-A707-01;Pheochromocytoma;14;PHC;13.08478811;0:LIVING;1;Primary;Female;Matched;43
+pcpg_tcga;TCGA-QR-A708;TCGA-QR-A708-01;Pheochromocytoma;18;PHC;1.150672321;0:LIVING;1;Primary;Female;Matched;44
+pcpg_tcga;TCGA-QR-A70A;TCGA-QR-A70A-01;Pheochromocytoma;16;PHC;69.66498997;0:LIVING;1;Primary;Female;Matched;54
+pcpg_tcga;TCGA-QR-A70C;TCGA-QR-A70C-01;Pheochromocytoma;14;PHC;116.1850281;0:LIVING;1;Primary;Female;Matched;51
+pcpg_tcga;TCGA-QR-A70D;TCGA-QR-A70D-01;Paraganglioma;8;PGNG;0.230134464;0:LIVING;1;Primary;Female;Matched;39
+pcpg_tcga;TCGA-QR-A70E;TCGA-QR-A70E-01;Pheochromocytoma;10;PHC;6.312259592;0:LIVING;1;Primary;Female;Matched;31
+pcpg_tcga;TCGA-QR-A70G;TCGA-QR-A70G-01;Pheochromocytoma;14;PHC;2.334220995;0:LIVING;1;Primary;Male;Matched;54
+pcpg_tcga;TCGA-QR-A70H;TCGA-QR-A70H-01;Pheochromocytoma;15;PHC;26.82710326;0:LIVING;1;Primary;Male;Matched;36
+pcpg_tcga;TCGA-QR-A70I;TCGA-QR-A70I-01;Paraganglioma;5;PGNG;29.91748036;0:LIVING;1;Primary;Male;Matched;24
+pcpg_tcga;TCGA-QR-A70J;TCGA-QR-A70J-01;Pheochromocytoma;21;PHC;13.11766446;0:LIVING;1;Primary;Female;Matched;42
+pcpg_tcga;TCGA-QR-A70K;TCGA-QR-A70K-01;Pheochromocytoma;30;PHC;9.008120459;0:LIVING;1;Primary;Male;Matched;61
+pcpg_tcga;TCGA-QR-A70M;TCGA-QR-A70M-01;Pheochromocytoma;9;PHC;33.99414801;0:LIVING;1;Primary;Male;Matched;38
+pcpg_tcga;TCGA-QR-A70N;TCGA-QR-A70N-01;Pheochromocytoma;17;PHC;1.413683138;0:LIVING;1;Primary;Male;Matched;32
+pcpg_tcga;TCGA-QR-A70O;TCGA-QR-A70O-01;Pheochromocytoma;22;PHC;3.649275076;0:LIVING;1;Primary;Female;Matched;35
+pcpg_tcga;TCGA-QR-A70Q;TCGA-QR-A70Q-01;Paraganglioma;15;PGNG;4.602689286;0:LIVING;1;Primary;Male;Matched;33
+pcpg_tcga;TCGA-QR-A70R;TCGA-QR-A70R-01;Pheochromocytoma;15;PHC;14.20258408;0:LIVING;1;Primary;Male;Matched;43
+pcpg_tcga;TCGA-QR-A70T;TCGA-QR-A70T-01;Paraganglioma;16;PGNG;8.777985995;0:LIVING;1;Primary;Female;Matched;40
+pcpg_tcga;TCGA-QR-A70U;TCGA-QR-A70U-01;Pheochromocytoma;28;PHC;48.42686655;0:LIVING;1;Primary;Female;Matched;46
+pcpg_tcga;TCGA-QR-A70V;TCGA-QR-A70V-01;Pheochromocytoma;16;PHC;0.065752704;0:LIVING;1;Primary;Female;Matched;66
+pcpg_tcga;TCGA-QR-A70W;TCGA-QR-A70W-01;Pheochromocytoma;10;PHC;41.78584344;0:LIVING;1;Primary;Male;Matched;40
+pcpg_tcga;TCGA-QR-A70X;TCGA-QR-A70X-01;Pheochromocytoma;9;PHC;6.016372423;0:LIVING;1;Primary;Female;Matched;46
+pcpg_tcga;TCGA-QR-A7IN;TCGA-QR-A7IN-01;Pheochromocytoma;11;PHC;12.39438472;0:LIVING;1;Primary;Female;Matched;52
+pcpg_tcga;TCGA-QR-A7IP;TCGA-QR-A7IP-01;Paraganglioma;20;PGNG;17.95048821;0:LIVING;1;Primary;Male;Matched;30
+pcpg_tcga;TCGA-QT-A5XJ;TCGA-QT-A5XJ-01;Pheochromocytoma;27;PHC;36.22973995;0:LIVING;1;Primary;Female;Matched;42
+pcpg_tcga;TCGA-QT-A5XK;TCGA-QT-A5XK-01;Pheochromocytoma;16;PHC;6.93691028;0:LIVING;1;Primary;Female;Matched;56
+pcpg_tcga;TCGA-QT-A5XL;TCGA-QT-A5XL-01;Pheochromocytoma;11;PHC;1.808199362;0:LIVING;1;Primary;Male;Matched;27
+pcpg_tcga;TCGA-QT-A5XM;TCGA-QT-A5XM-01;Pheochromocytoma;11;PHC;0.723279745;0:LIVING;1;Primary;Male;Matched;43
+pcpg_tcga;TCGA-QT-A5XN;TCGA-QT-A5XN-01;Pheochromocytoma;13;PHC;25.18328566;0:LIVING;1;Primary;Female;Matched;51
+pcpg_tcga;TCGA-QT-A5XO;TCGA-QT-A5XO-01;Pheochromocytoma;24;PHC;2.301344643;0:LIVING;1;Primary;Female;Matched;63
+pcpg_tcga;TCGA-QT-A5XP;TCGA-QT-A5XP-01;Pheochromocytoma;22;PHC;4.405431173;0:LIVING;1;Primary;Female;Matched;57
+pcpg_tcga;TCGA-QT-A69Q;TCGA-QT-A69Q-01;Pheochromocytoma;11;PHC;0.789032449;0:LIVING;1;Primary;Male;Matched;40
+pcpg_tcga;TCGA-QT-A7U0;TCGA-QT-A7U0-01;Paraganglioma;15;PGNG;13.08478811;0:LIVING;1;Primary;Male;Matched;56
+pcpg_tcga;TCGA-RM-A68T;TCGA-RM-A68T-01;Paraganglioma;13;PGNG;77.98270704;0:LIVING;1;Primary;Male;Matched;46
+pcpg_tcga;TCGA-RM-A68W;TCGA-RM-A68W-01;Paraganglioma;13;PGNG;0.920537857;0:LIVING;1;Primary;Female;Matched;41
+pcpg_tcga;TCGA-RT-A6Y9;TCGA-RT-A6Y9-01;Pheochromocytoma;6;PHC;108.2618273;0:LIVING;1;Primary;Female;Matched;50
+pcpg_tcga;TCGA-RT-A6YA;TCGA-RT-A6YA-01;Pheochromocytoma;21;PHC;50.62958214;0:LIVING;1;Primary;Female;Matched;71
+pcpg_tcga;TCGA-RT-A6YC;TCGA-RT-A6YC-01;Pheochromocytoma;5;PHC;8.087582602;0:LIVING;1;Primary;Male;Matched;31
+pcpg_tcga;TCGA-RW-A67V;TCGA-RW-A67V-01;Pheochromocytoma;19;PHC;86.89219844;0:LIVING;1;Primary;Female;Matched;44
+pcpg_tcga;TCGA-RW-A67W;TCGA-RW-A67W-01;Pheochromocytoma;16;PHC;19.85731663;0:LIVING;1;Primary;Female;Matched;46
+pcpg_tcga;TCGA-RW-A67X;TCGA-RW-A67X-01;Pheochromocytoma;19;PHC;2.925995332;0:LIVING;1;Primary;Male;Matched;47
+pcpg_tcga;TCGA-RW-A67Y;TCGA-RW-A67Y-01;Pheochromocytoma;11;PHC;7.101292041;0:LIVING;1;Primary;Female;Matched;43
+pcpg_tcga;TCGA-RW-A680;TCGA-RW-A680-01;Paraganglioma;31;PGNG;47.63783411;0:LIVING;1;Primary;Female;Matched;57
+pcpg_tcga;TCGA-RW-A681;TCGA-RW-A681-01;Pheochromocytoma;28;PHC;37.51191768;0:LIVING;1;Primary;Male;Matched;56
+pcpg_tcga;TCGA-RW-A684;TCGA-RW-A684-01;Pheochromocytoma;15;PHC;1.052043265;0:LIVING;1;Primary;Female;Matched;64
+pcpg_tcga;TCGA-RW-A685;TCGA-RW-A685-01;Pheochromocytoma;13;PHC;0.854785153;0:LIVING;1;Primary;Female;Matched;70
+pcpg_tcga;TCGA-RW-A686;TCGA-RW-A686-01;Pheochromocytoma;13;PHC;19.29841865;0:LIVING;2;Primary;Male;Matched;62
+pcpg_tcga;TCGA-RW-A688;TCGA-RW-A688-01;Pheochromocytoma;15;PHC;1.216425025;0:LIVING;1;Primary;Female;Matched;69
+pcpg_tcga;TCGA-RW-A689;TCGA-RW-A689-01;Pheochromocytoma;10;PHC;27.22161949;0:LIVING;1;Primary;Male;Matched;58
+pcpg_tcga;TCGA-RW-A68A;TCGA-RW-A68A-01;Pheochromocytoma;8;PHC;25.05178025;0:LIVING;1;Primary;Female;Matched;19
+pcpg_tcga;TCGA-RW-A68B;TCGA-RW-A68B-01;Pheochromocytoma;6;PHC;23.90110793;0:LIVING;1;Primary;Male;Matched;31
+pcpg_tcga;TCGA-RW-A68C;TCGA-RW-A68C-01;Pheochromocytoma;13;PHC;6.27938324;0:LIVING;1;Primary;Male;Matched;43
+pcpg_tcga;TCGA-RW-A68D;TCGA-RW-A68D-01;Pheochromocytoma;14;PHC;72.78824342;0:LIVING;1;Primary;Female;Matched;31
+pcpg_tcga;TCGA-RW-A68F;TCGA-RW-A68F-01;Pheochromocytoma;23;PHC;44.51458066;0:LIVING;1;Primary;Female;Matched;51
+pcpg_tcga;TCGA-RW-A68G;TCGA-RW-A68G-01;Pheochromocytoma;8;PHC;41.8844725;0:LIVING;1;Primary;Male;Matched;49
+pcpg_tcga;TCGA-RW-A7CZ;TCGA-RW-A7CZ-01;Paraganglioma;15;PGNG;13.87382056;0:LIVING;1;Primary;Female;Matched;72
+pcpg_tcga;TCGA-RW-A7D0;TCGA-RW-A7D0-01;Pheochromocytoma;12;PHC;11.57247592;0:LIVING;1;Primary;Female;Matched;47
+pcpg_tcga;TCGA-RX-A8JQ;TCGA-RX-A8JQ-01;Paraganglioma;12;PGNG;20.0874511;0:LIVING;1;Primary;Male;Matched;44
+pcpg_tcga;TCGA-S7-A7WL;TCGA-S7-A7WL-01;Pheochromocytoma;20;PHC;31.59417431;0:LIVING;1;Primary;Male;Matched;59
+pcpg_tcga;TCGA-S7-A7WM;TCGA-S7-A7WM-01;Pheochromocytoma;13;PHC;36.55850347;0:LIVING;1;Primary;Male;Matched;76
+pcpg_tcga;TCGA-S7-A7WN;TCGA-S7-A7WN-01;Pheochromocytoma;10;PHC;37.24890686;0:LIVING;1;Primary;Male;Matched;40
+pcpg_tcga;TCGA-S7-A7WO;TCGA-S7-A7WO-01;Pheochromocytoma;6;PHC;35.5064602;0:LIVING;1;Primary;Female;Matched;76
+pcpg_tcga;TCGA-S7-A7WP;TCGA-S7-A7WP-01;Pheochromocytoma;6;PHC;31.03527633;0:LIVING;1;Primary;Female;Matched;25
+pcpg_tcga;TCGA-S7-A7WQ;TCGA-S7-A7WQ-01;Pheochromocytoma;13;PHC;26.95860867;0:LIVING;1;Primary;Male;Matched;19
+pcpg_tcga;TCGA-S7-A7WR;TCGA-S7-A7WR-01;Pheochromocytoma;10;PHC;40.70092383;0:LIVING;1;Primary;Female;Matched;32
+pcpg_tcga;TCGA-S7-A7WT;TCGA-S7-A7WT-01;Pheochromocytoma;24;PHC;42.772134;0:LIVING;1;Primary;Male;Matched;74
+pcpg_tcga;TCGA-S7-A7WU;TCGA-S7-A7WU-01;Pheochromocytoma;4;PHC;30.50925469;0:LIVING;1;Primary;Female;Matched;63
+pcpg_tcga;TCGA-S7-A7WV;TCGA-S7-A7WV-01;Pheochromocytoma;12;PHC;27.91202288;0:LIVING;1;Primary;Female;Matched;35
+pcpg_tcga;TCGA-S7-A7WW;TCGA-S7-A7WW-01;Pheochromocytoma;12;PHC;23.21070454;0:LIVING;1;Primary;Male;Matched;34
+pcpg_tcga;TCGA-S7-A7WX;TCGA-S7-A7WX-01;Pheochromocytoma;12;PHC;25.31479107;0:LIVING;1;Primary;Male;Matched;52
+pcpg_tcga;TCGA-S7-A7X0;TCGA-S7-A7X0-01;Paraganglioma;21;PGNG;17.95048821;0:LIVING;1;Primary;Female;Matched;75
+pcpg_tcga;TCGA-S7-A7X1;TCGA-S7-A7X1-01;Pheochromocytoma;11;PHC;18.93677878;0:LIVING;1;Primary;Male;Matched;23
+pcpg_tcga;TCGA-S7-A7X2;TCGA-S7-A7X2-01;Pheochromocytoma;17;PHC;24.1969951;0:LIVING;1;Primary;Female;Matched;57
+pcpg_tcga;TCGA-SA-A6C2;TCGA-SA-A6C2-01;Paraganglioma;26;PGNG;9.731400204;0:LIVING;1;Primary;Female;Matched;46
+pcpg_tcga;TCGA-SP-A6QC;TCGA-SP-A6QC-01;Pheochromocytoma;20;PHC;114.771345;0:LIVING;1;Primary;Male;Matched;46
+pcpg_tcga;TCGA-SP-A6QD;TCGA-SP-A6QD-01;Pheochromocytoma;11;PHC;109.2481178;0:LIVING;1;Primary;Male;Matched;26
+pcpg_tcga;TCGA-SP-A6QF;TCGA-SP-A6QF-01;Pheochromocytoma;15;PHC;82.61827268;0:LIVING;1;Primary;Male;Matched;48
+pcpg_tcga;TCGA-SP-A6QG;TCGA-SP-A6QG-01;Paraganglioma;10;PGNG;79.46214288;0:LIVING;1;Primary;Female;Matched;35
+pcpg_tcga;TCGA-SP-A6QH;TCGA-SP-A6QH-01;Pheochromocytoma;10;PHC;72.42660354;0:LIVING;1;Primary;Female;Matched;35
+pcpg_tcga;TCGA-SP-A6QI;TCGA-SP-A6QI-01;Pheochromocytoma;13;PHC;110.0371503;0:LIVING;1;Primary;Male;Matched;47
+pcpg_tcga;TCGA-SP-A6QJ;TCGA-SP-A6QJ-01;Pheochromocytoma;16;PHC;15.51763816;0:LIVING;1;Primary;Female;Matched;64
+pcpg_tcga;TCGA-SP-A6QK;TCGA-SP-A6QK-01;Pheochromocytoma;16;PHC;111.2535753;0:LIVING;1;Primary;Female;Matched;46
+pcpg_tcga;TCGA-SQ-A6I4;TCGA-SQ-A6I4-01;Pheochromocytoma;13;PHC;1.413683138;0:LIVING;1;Primary;Male;Matched;53
+pcpg_tcga;TCGA-SQ-A6I6;TCGA-SQ-A6I6-01;Pheochromocytoma;33;PHC;0.098629056;0:LIVING;1;Primary;Male;Matched;39
+pcpg_tcga;TCGA-SR-A6MP;TCGA-SR-A6MP-01;Pheochromocytoma;25;PHC;51.22135648;0:LIVING;1;Primary;Female;Matched;30
+pcpg_tcga;TCGA-SR-A6MQ;TCGA-SR-A6MQ-01;Paraganglioma;14;PGNG;68.61294671;0:LIVING;1;Primary;Female;Matched;61
+pcpg_tcga;TCGA-SR-A6MR;TCGA-SR-A6MR-01;Paraganglioma;13;PGNG;79.19913206;0:LIVING;1;Primary;Male;Matched;41
+pcpg_tcga;TCGA-SR-A6MS;TCGA-SR-A6MS-01;Pheochromocytoma;11;PHC;81.92786928;0:LIVING;1;Primary;Female;Matched;35
+pcpg_tcga;TCGA-SR-A6MT;TCGA-SR-A6MT-01;Pheochromocytoma;13;PHC;106.7495151;0:LIVING;1;Primary;Female;Matched;57
+pcpg_tcga;TCGA-SR-A6MU;TCGA-SR-A6MU-01;Pheochromocytoma;14;PHC;110.5302956;0:LIVING;1;Primary;Female;Matched;49
+pcpg_tcga;TCGA-SR-A6MV;TCGA-SR-A6MV-01;Paraganglioma;14;PGNG;121.0507282;0:LIVING;1;Primary;Female;Matched;35
+pcpg_tcga;TCGA-SR-A6MY;TCGA-SR-A6MY-01;Pheochromocytoma;9;PHC;24.65726403;0:LIVING;1;Primary;Female;Matched;54
+pcpg_tcga;TCGA-SR-A6MZ;TCGA-SR-A6MZ-01;Pheochromocytoma;10;PHC;26.20245258;0:LIVING;1;Primary;Female;Matched;46
+pcpg_tcga;TCGA-SR-A6N0;TCGA-SR-A6N0-01;Pheochromocytoma;13;PHC;49.61041523;0:LIVING;1;Primary;Female;Matched;45
+pcpg_tcga;TCGA-TT-A6YJ;TCGA-TT-A6YJ-01;Pheochromocytoma;12;PHC;4.339678469;0:LIVING;1;Primary;Female;Matched;45
+pcpg_tcga;TCGA-TT-A6YK;TCGA-TT-A6YK-01;Paraganglioma;13;PGNG;37.34753592;0:LIVING;1;Primary;Male;Matched;61
+pcpg_tcga;TCGA-TT-A6YN;TCGA-TT-A6YN-01;Pheochromocytoma;7;PHC;19.92306934;0:LIVING;1;Primary;Female;Matched;37
+pcpg_tcga;TCGA-TT-A6YO;TCGA-TT-A6YO-01;Pheochromocytoma;9;PHC;13.31492258;0:LIVING;1;Primary;Female;Matched;64
+pcpg_tcga;TCGA-TT-A6YP;TCGA-TT-A6YP-01;Pheochromocytoma;6;PHC;42.47624684;0:LIVING;1;Primary;Female;Matched;19
+pcpg_tcga;TCGA-W2-A7H5;TCGA-W2-A7H5-01;Pheochromocytoma;4;PHC;20.0874511;0:LIVING;1;Primary;Female;Matched;25
+pcpg_tcga;TCGA-W2-A7H7;TCGA-W2-A7H7-01;Pheochromocytoma;17;PHC;17.16145576;0:LIVING;1;Primary;Male;Matched;59
+pcpg_tcga;TCGA-W2-A7HA;TCGA-W2-A7HA-01;Pheochromocytoma;22;PHC;1.183548673;0:LIVING;1;Primary;Female;Matched;63
+pcpg_tcga;TCGA-W2-A7HB;TCGA-W2-A7HB-01;Pheochromocytoma;8;PHC;19.85731663;0:LIVING;1;Primary;Male;Matched;24
+pcpg_tcga;TCGA-W2-A7HC;TCGA-W2-A7HC-01;Pheochromocytoma;25;PHC;14.43271855;0:LIVING;1;Primary;Male;Matched;67
+pcpg_tcga;TCGA-W2-A7HD;TCGA-W2-A7HD-01;Pheochromocytoma;17;PHC;18.44363349;0:LIVING;1;Primary;Female;Matched;76
+pcpg_tcga;TCGA-W2-A7HE;TCGA-W2-A7HE-01;Pheochromocytoma;5;PHC;16.60255778;0:LIVING;1;Primary;Male;Matched;80
+pcpg_tcga;TCGA-W2-A7HF;TCGA-W2-A7HF-01;Pheochromocytoma;13;PHC;17.6874774;0:LIVING;1;Primary;Female;Matched;28
+pcpg_tcga;TCGA-W2-A7HH;TCGA-W2-A7HH-01;Paraganglioma;19;PGNG;25.61067824;0:LIVING;1;Primary;Female;Matched;69
+pcpg_tcga;TCGA-W2-A7UY;TCGA-W2-A7UY-01;Pheochromocytoma;30;PHC;14.79435842;0:LIVING;1;Primary;Female;Matched;44
+pcpg_tcga;TCGA-WB-A80K;TCGA-WB-A80K-01;Pheochromocytoma;21;PHC;41.25982181;0:LIVING;1;Primary;Male;Matched;49
+pcpg_tcga;TCGA-WB-A80L;TCGA-WB-A80L-01;Pheochromocytoma;9;PHC;34.25715883;0:LIVING;1;Primary;Female;Matched;30
+pcpg_tcga;TCGA-WB-A80M;TCGA-WB-A80M-01;Pheochromocytoma;17;PHC;4.471183877;0:LIVING;1;Primary;Male;Matched;63
+pcpg_tcga;TCGA-WB-A80N;TCGA-WB-A80N-01;Pheochromocytoma;24;PHC;4.734194694;0:LIVING;1;Primary;Male;Matched;54
+pcpg_tcga;TCGA-WB-A80O;TCGA-WB-A80O-01;Pheochromocytoma;17;PHC;25.51204918;0:LIVING;1;Primary;Female;Matched;83
+pcpg_tcga;TCGA-WB-A80P;TCGA-WB-A80P-01;Paraganglioma;8;PGNG;316.7307756;0:LIVING;1;Primary;Male;Matched;20
+pcpg_tcga;TCGA-WB-A80Q;TCGA-WB-A80Q-01;Pheochromocytoma;21;PHC;127.5602459;0:LIVING;1;Primary;Female;Matched;64
+pcpg_tcga;TCGA-WB-A80V;TCGA-WB-A80V-01;Pheochromocytoma;23;PHC;292.5009041;0:LIVING;1;Primary;Female;Matched;63
+pcpg_tcga;TCGA-WB-A814;TCGA-WB-A814-01;Paraganglioma;14;PGNG;74.03754479;0:LIVING;1;Primary;Female;Matched;35
+pcpg_tcga;TCGA-WB-A815;TCGA-WB-A815-01;Pheochromocytoma;18;PHC;53.58845383;0:LIVING;1;Primary;Female;Matched;68
+pcpg_tcga;TCGA-WB-A816;TCGA-WB-A816-01;Pheochromocytoma;18;PHC;41.22694546;0:LIVING;1;Primary;Female;Matched;42
+pcpg_tcga;TCGA-WB-A817;TCGA-WB-A817-01;Pheochromocytoma;13;PHC;43.06802117;0:LIVING;1;Primary;Male;Matched;27
+pcpg_tcga;TCGA-WB-A818;TCGA-WB-A818-01;Pheochromocytoma;13;PHC;42.34474143;0:LIVING;1;Primary;Male;Matched;37
+pcpg_tcga;TCGA-WB-A819;TCGA-WB-A819-01;Pheochromocytoma;10;PHC;33.89551895;0:LIVING;1;Primary;Male;Matched;36
+pcpg_tcga;TCGA-WB-A81A;TCGA-WB-A81A-01;Pheochromocytoma;17;PHC;24.16411875;0:LIVING;1;Primary;Female;Matched;65
+pcpg_tcga;TCGA-WB-A81D;TCGA-WB-A81D-01;Pheochromocytoma;20;PHC;35.83522372;0:LIVING;1;Primary;Female;Matched;82
+pcpg_tcga;TCGA-WB-A81E;TCGA-WB-A81E-01;Paraganglioma;24;PGNG;48.52549561;0:LIVING;1;Primary;Female;Matched;47
+pcpg_tcga;TCGA-WB-A81F;TCGA-WB-A81F-01;Pheochromocytoma;7;PHC;57.10622349;0:LIVING;1;Primary;Male;Matched;40
+pcpg_tcga;TCGA-WB-A81G;TCGA-WB-A81G-01;Pheochromocytoma;12;PHC;38.76121906;0:LIVING;1;Primary;Male;Matched;25
+pcpg_tcga;TCGA-WB-A81H;TCGA-WB-A81H-01;Pheochromocytoma;19;PHC;63.97738107;0:LIVING;1;Primary;Female;Matched;44
+pcpg_tcga;TCGA-WB-A81I;TCGA-WB-A81I-01;Pheochromocytoma;15;PHC;22.32304304;0:LIVING;1;Primary;Male;Matched;64
+pcpg_tcga;TCGA-WB-A81J;TCGA-WB-A81J-01;Pheochromocytoma;20;PHC;24.36137686;0:LIVING;1;Primary;Male;Matched;40
+pcpg_tcga;TCGA-WB-A81K;TCGA-WB-A81K-01;Pheochromocytoma;12;PHC;40.04339678;0:LIVING;1;Primary;Male;Matched;45
+pcpg_tcga;TCGA-WB-A81M;TCGA-WB-A81M-01;Pheochromocytoma;14;PHC;45.82963474;0:LIVING;1;Primary;Female;Matched;42
+pcpg_tcga;TCGA-WB-A81N;TCGA-WB-A81N-01;Pheochromocytoma;10;PHC;62.0376763;0:LIVING;1;Primary;Female;Matched;28
+pcpg_tcga;TCGA-WB-A81P;TCGA-WB-A81P-01;Pheochromocytoma;23;PHC;12.98615906;0:LIVING;1;Primary;Female;Matched;73
+pcpg_tcga;TCGA-WB-A81R;TCGA-WB-A81R-01;Pheochromocytoma;14;PHC;1.61094125;0:LIVING;1;Primary;Female;Matched;55
+pcpg_tcga;TCGA-WB-A81S;TCGA-WB-A81S-01;Pheochromocytoma;12;PHC;23.76960252;0:LIVING;1;Primary;Female;Matched;59
+pcpg_tcga;TCGA-WB-A81T;TCGA-WB-A81T-01;Pheochromocytoma;22;PHC;25.51204918;0:LIVING;1;Primary;Male;Matched;45
+pcpg_tcga;TCGA-WB-A81V;TCGA-WB-A81V-01;Pheochromocytoma;14;PHC;71.04579676;0:LIVING;1;Primary;Male;Matched;57
+pcpg_tcga;TCGA-WB-A81W;TCGA-WB-A81W-01;Pheochromocytoma;18;PHC;78.2128415;0:LIVING;1;Primary;Male;Matched;41
+pcpg_tcga;TCGA-WB-A821;TCGA-WB-A821-01;Pheochromocytoma;31;PHC;93.10582898;0:LIVING;1;Primary;Female;Matched;73
+pcpg_tcga;TCGA-WB-A822;TCGA-WB-A822-01;Pheochromocytoma;9;PHC;103.1659927;0:LIVING;1;Primary;Male;Matched;23
+pcpg_tcga;TCGA-XG-A823;TCGA-XG-A823-01;Pheochromocytoma;9;PHC;20.18608015;0:LIVING;1;Primary;Female;Matched;25
+glioma_mskcc_2019;TRF011251;TRF011251;Glioblastoma Multiforme;5;GBM;24;1:DECEASED;1;Primary;Male;Unmatched;53
+glioma_mskcc_2019;P-0013673;TRF014012;Glioblastoma Multiforme;3;GBM;51.3;0:LIVING;2;Primary;Male;Unmatched;60
+glioma_mskcc_2019;TRF014752;TRF014752;Anaplastic Astrocytoma;6;AASTR;92.6;0:LIVING;1;Primary;Male;Unmatched;26
+glioma_mskcc_2019;TRF014754;TRF014754;Glioblastoma Multiforme;2;GBM;34.8;1:DECEASED;1;Primary;Male;Unmatched;57
+glioma_mskcc_2019;P-0010443;TRF018658;Anaplastic Astrocytoma;9;AASTR;65;0:LIVING;2;Primary;Female;Unmatched;29
+glioma_mskcc_2019;TRF018670;TRF018670;Anaplastic Astrocytoma;5;AASTR;64.5;0:LIVING;1;Primary;Male;Unmatched;36
+glioma_mskcc_2019;TRF020703;TRF020703;Anaplastic Astrocytoma;6;AASTR;39.5;0:LIVING;1;Primary;Female;Unmatched;41
+glioma_mskcc_2019;TRF021125;TRF021125;Glioblastoma Multiforme;3;GBM;42.2;1:DECEASED;1;Primary;Male;Unmatched;62
+glioma_mskcc_2019;TRF021879;TRF021879;Glioblastoma Multiforme;6;GBM;11;1:DECEASED;1;Primary;Female;Unmatched;47
+glioma_mskcc_2019;TRF022209;TRF022209;Glioblastoma Multiforme;6;GBM;11;1:DECEASED;1;Primary;Female;Unmatched;55
+glioma_mskcc_2019;TRF022348;TRF022348;Anaplastic Astrocytoma;5;AASTR;42;0:LIVING;1;Primary;Male;Unmatched;35
+glioma_mskcc_2019;P-0013544;TRF022408;Glioblastoma Multiforme;2;GBM;61.2;0:LIVING;2;Primary;Male;Unmatched;45
+glioma_mskcc_2019;TRF022879;TRF022879;Glioblastoma Multiforme;3;GBM;29;1:DECEASED;1;Primary;Female;Unmatched;71
+glioma_mskcc_2019;TRF024470;TRF024470;Glioblastoma Multiforme;3;GBM;18;1:DECEASED;1;Primary;Male;Unmatched;37
+glioma_mskcc_2019;TRF028383;TRF028383;Anaplastic Astrocytoma;5;AASTR;83.8;0:LIVING;1;Primary;Female;Unmatched;50
+glioma_mskcc_2019;TRF029667;TRF029667;Anaplastic Oligodendroglioma;8;AODG;51.8;0:LIVING;1;Primary;Female;Unmatched;28
+glioma_mskcc_2019;TRF029668;TRF029668;Gliosarcoma;8;GSARC;45.7;0:LIVING;1;Primary;Female;Unmatched;53
+glioma_mskcc_2019;TRF029672;TRF029672;Glioblastoma Multiforme;3;GBM;57;0:LIVING;1;Primary;Male;Unmatched;60
+glioma_mskcc_2019;TRF030605;TRF030605;Glioblastoma Multiforme;1;GBM;50.1;0:LIVING;1;Primary;Female;Unmatched;66
+glioma_mskcc_2019;TRF030607;TRF030607;Anaplastic Astrocytoma;6;AASTR;52.7;1:DECEASED;1;Primary;Male;Unmatched;24
+glioma_mskcc_2019;TRF030628;TRF030628;Diffuse Astrocytoma;4;DASTR;189;0:LIVING;1;Primary;Male;Unmatched;35
+glioma_mskcc_2019;TRF031075;TRF031075;Oligodendroglioma;4;ODG;59.4;0:LIVING;1;Primary;Male;Unmatched;68
+glioma_mskcc_2019;TRF033231;TRF033231;Diffuse Astrocytoma;4;DASTR;69.1;1:DECEASED;1;Primary;Female;Unmatched;26
+glioma_mskcc_2019;TRF034433;TRF034433;Glioblastoma Multiforme;2;GBM;47;1:DECEASED;1;Primary;Male;Unmatched;46
+glioma_mskcc_2019;TRF035201;TRF035201;Anaplastic Oligodendroglioma;5;AODG;42.9;0:LIVING;1;Primary;Male;Unmatched;37
+glioma_mskcc_2019;TRF035707;TRF035707;Anaplastic Astrocytoma;8;AASTR;43.3;0:LIVING;1;Primary;Male;Unmatched;38
+glioma_mskcc_2019;TRF036748;TRF036748;Anaplastic Astrocytoma;3;AASTR;48.1;0:LIVING;1;Primary;Male;Unmatched;29
+glioma_mskcc_2019;TRF037647;TRF037647;Anaplastic Astrocytoma;4;AASTR;33.6;1:DECEASED;1;Primary;Male;Unmatched;51
+glioma_mskcc_2019;TRF039306;TRF039306;Anaplastic Oligodendroglioma;6;AODG;70.2;1:DECEASED;1;Primary;Male;Unmatched;49
+glioma_mskcc_2019;TRF040046;TRF040046;Diffuse Astrocytoma;7;DASTR;62;0:LIVING;1;Primary;Female;Unmatched;32
+glioma_mskcc_2019;TRF040129;TRF040129;Glioblastoma Multiforme;6;GBM;16;1:DECEASED;1;Primary;Female;Unmatched;61
+glioma_mskcc_2019;TRF040878;TRF040878;Diffuse Astrocytoma;6;DASTR;86.8;0:LIVING;1;Primary;Male;Unmatched;36
+glioma_mskcc_2019;TRF041560;TRF041560;Anaplastic Astrocytoma;6;AASTR;80.8;0:LIVING;1;Primary;Female;Unmatched;55
+glioma_mskcc_2019;TRF042199;TRF042199;Glioblastoma Multiforme;3;GBM;32;1:DECEASED;1;Primary;Female;Unmatched;47
+glioma_mskcc_2019;TRF042339;TRF042339;Glioblastoma Multiforme;2;GBM;11;0:LIVING;1;Primary;Male;Unmatched;74
+glioma_mskcc_2019;TRF043342;TRF043342;Oligodendroglioma;3;ODG;94.2;0:LIVING;1;Primary;Male;Unmatched;31
+glioma_mskcc_2019;TRF043353;TRF043353;Oligodendroglioma;4;ODG;82;0:LIVING;1;Primary;Male;Unmatched;39
+glioma_mskcc_2019;TRF043485;TRF043485;Anaplastic Astrocytoma;3;AASTR;144;0:LIVING;1;Primary;Male;Unmatched;45
+glioma_mskcc_2019;TRF043499;TRF043499;Diffuse Astrocytoma;7;DASTR;36.9;0:LIVING;1;Primary;Male;Unmatched;39
+glioma_mskcc_2019;TRF043510;TRF043510;Diffuse Astrocytoma;3;DASTR;179;0:LIVING;1;Primary;Male;Unmatched;23
+glioma_mskcc_2019;TRF044142;TRF044142;Glioblastoma Multiforme;5;GBM;0.82;0:LIVING;1;Primary;Male;Unmatched;33
+glioma_mskcc_2019;TRF044571;TRF044571;Glioblastoma Multiforme;2;GBM;38.8;0:LIVING;1;Primary;Male;Unmatched;56
+glioma_mskcc_2019;TRF046085;TRF046085;Anaplastic Astrocytoma;4;AASTR;41.2;0:LIVING;1;Primary;Male;Unmatched;46
+glioma_mskcc_2019;TRF047609;TRF047609;Anaplastic Astrocytoma;5;AASTR;90;0:LIVING;1;Primary;Female;Unmatched;34
+glioma_mskcc_2019;TRF047623;TRF047623;Glioblastoma Multiforme;5;GBM;40.9;0:LIVING;1;Primary;Female;Unmatched;64
+glioma_mskcc_2019;TRF048714;TRF048714;Glioblastoma Multiforme;1;GBM;65.1;0:LIVING;1;Primary;Male;Unmatched;53
+glioma_mskcc_2019;TRF048715;TRF048715;Glioblastoma Multiforme;6;GBM;0.39;0:LIVING;1;Primary;Male;Unmatched;69
+glioma_mskcc_2019;P-0006119;TRF050416;Oligodendroglioma;5;ODG;52.3;0:LIVING;2;Primary;Male;Unmatched;56
+glioma_mskcc_2019;TRF050430;TRF050430;Diffuse Astrocytoma;3;DASTR;167;0:LIVING;1;Primary;Male;Unmatched;22
+glioma_mskcc_2019;TRF050441;TRF050441;Anaplastic Astrocytoma;5;AASTR;149;0:LIVING;1;Primary;Male;Unmatched;33
+glioma_mskcc_2019;TRF050678;TRF050678;Glioblastoma Multiforme;3;GBM;39.8;0:LIVING;1;Primary;Male;Unmatched;69
+glioma_mskcc_2019;TRF050776;TRF050776;Glioblastoma Multiforme;3;GBM;54.4;1:DECEASED;1;Primary;Female;Unmatched;56
+glioma_mskcc_2019;P-0010578;TRF050916;Glioblastoma Multiforme;2;GBM;83.7;1:DECEASED;2;Primary;Male;Unmatched;40
+glioma_mskcc_2019;TRF050931;TRF050931;Anaplastic Astrocytoma;4;AASTR;38.7;1:DECEASED;1;Primary;Male;Unmatched;51
+glioma_mskcc_2019;TRF051132;TRF051132;Oligodendroglioma;7;ODG;73.4;0:LIVING;1;Primary;Male;Unmatched;53
+glioma_mskcc_2019;TRF051753;TRF051753;Glioblastoma Multiforme;5;GBM;35.6;0:LIVING;1;Primary;Male;Unmatched;53
+glioma_mskcc_2019;TRF051892;TRF051892;Oligodendroglioma;4;ODG;50.3;0:LIVING;1;Primary;Female;Unmatched;71
+glioma_mskcc_2019;TRF051908;TRF051908;Pleomorphic Xanthoastrocytoma;3;PXA;136;0:LIVING;1;Primary;Female;Unmatched;70
+glioma_mskcc_2019;TRF052688;TRF052688;Glioblastoma Multiforme;4;GBM;0.82;1:DECEASED;1;Primary;Male;Unmatched;61
+glioma_mskcc_2019;TRF054735;TRF054735;Diffuse Glioma;3;DIFG;82.2;0:LIVING;1;Primary;Female;Unmatched;55
+glioma_mskcc_2019;P-0004584;TRF057063;Anaplastic Astrocytoma;8;AASTR;58.5;1:DECEASED;2;Primary;Female;Unmatched;72
+glioma_mskcc_2019;TRF065134;TRF065134;Anaplastic Oligodendroglioma;14;AODG;70;0:LIVING;1;Primary;Female;Unmatched;45
+glioma_mskcc_2019;TRF070135;TRF070135;Glioblastoma Multiforme;7;GBM;34.6;0:LIVING;1;Primary;Male;Unmatched;57
+glioma_mskcc_2019;TRF071913;TRF071913;Oligodendroglioma;7;ODG;91.2;0:LIVING;1;Primary;Female;Unmatched;64
+glioma_mskcc_2019;TRF078041;TRF078041;Glioblastoma Multiforme;8;GBM;12;1:DECEASED;1;Primary;Female;Unmatched;71
+glioma_mskcc_2019;TRF078227;TRF078227;Oligodendroglioma;10;ODG;41.5;0:LIVING;1;Primary;Female;Unmatched;50
+glioma_mskcc_2019;TRF083668;TRF083668;Anaplastic Oligodendroglioma;4;AODG;88.1;0:LIVING;1;Primary;Female;Unmatched;36
+glioma_mskcc_2019;TRF102171;TRF102171;Glioblastoma Multiforme;12;GBM;41.2;1:DECEASED;1;Primary;Female;Unmatched;55
+glioma_mskcc_2019;P-0013029;TRF9155;Anaplastic Astrocytoma;4;AASTR;49;1:DECEASED;2;Primary;Male;Unmatched;38
