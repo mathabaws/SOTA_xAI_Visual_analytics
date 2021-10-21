@@ -3,6 +3,12 @@
 
 Repository containing code and experiments supplementing "Structured review of state-of-art xAI Python libraries with focus on visual analytics"
 
+## Environment
+
+Recreate anaconda environment on Linux using following command
+
+```conda env create -f environment_linux.yml ```
+
 ---
 ## Repository Structure
           ├── LICENSE
