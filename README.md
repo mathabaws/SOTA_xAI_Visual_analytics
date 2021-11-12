@@ -9,6 +9,9 @@ Recreate anaconda environment on Linux using following command
 
 ```conda env create -f environment_linux.yml ```
 
+
+TODO: TABLE WITH LIBRARY VERSIONS
+
 ---
 ## Repository Structure
           ├── LICENSE
