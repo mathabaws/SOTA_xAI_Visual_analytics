@@ -1,0 +1,292 @@
+﻿considertations;Library;Notes;Python API;R API;Other Programming Languages;Visualization available;Models;Methods;Explanations;Classification;Regression;Clustering;Tabular;Text;Images;Train Set Required;Distributed;Licence;Active development;Documentation Level (Good, API - only the methods, only examples, no doc - only code);Availabilty in package manager (Anaconda, PIP) - Yes/No
+;"AI Fairness 360 (F360)
+
+http://aif360.mybluemix.net/
+https://github.com/Trusted-AI/AIF360
+";Library/toolkit for detection and mitigation of bias. Contains implementation of methods for mitigating bias and different metrics for measuring fairness;Yes;Yes;No;No;"*sklearn,
+*tensorflow";"Optimized Preprocessing,
+Disparate Impact Remove,
+Equalized Odds Postprocessing,
+Reweighing,
+Reject Option Classification,
+Prejudice Remover Regularizer,
+Calibrated Equalized Odds Postprocessing,
+Learning Fair Representations,
+Adversarial Debiasing,
+Meta-Algorithm for Fair Classification,
+Rich Subgroup Fairness,
+Exponentiated Gradient Reduction,
+Grid Search Reduction";N/A;Yes;Yes;No;Yes;No;No;For certain methods;No;Apache 2.0;Yes;Good Documentation;Yes
+Analyze;"AI Explainability 360 (AIX360)
+
+http://aix360.mybluemix.net/
+https://github.com/IBM/AIX360 ";"The AI Explainability 360 toolkit is an open-source library that supports interpretability and explainability of datasets and machine learning models.
+
+Nice guidance diagram: http://aix360.mybluemix.net/resources#guidance ";Yes;No;No;Yes;"Keras,
+Black-Box,
+sklearn";ProtoDash (Gurumoorthy et al., 2019);Data explanation;Yes;*No;No;Yes;No;Yes;For certain methods;No;Apache 2.0;Yes;Good Documentation;Yes
+;;;;;;;;Disentangled Inferred Prior VAE (Kumar et al., 2018);Data explanation;Yes;No;No;No;No;Yes;;;;;;
+;;;;;;;;Contrastive Explanations Method (Dhurandhar et al., 2018);Local explanation;Yes;No;No;Yes;No;Yes;;;;;;
+;;;;;;;;Contrastive Explanations Method with Monotonic Attribute Functions (Luss et al., 2019);Local explanation;Yes;No;No;No;No;Yes;;;;;;
+;;;;;;;;LIME (Ribeiro et al. 2016) * wrapper around (https://github.com/marcotrc/lime);Local explanation;Yes;Yes;No;Yes;Yes;Yes;;;;;;
+;;;;;;;;SHAP (Lundberg, et al. 2017) * wrapper around (https://github.com/slundberg/shap);Local explanation;Yes;Yes;No;Yes;No;No;;;;;;
+;;;;;;;;Teaching AI to Explain its Decisions (Hind et al., 2019);Local explanation;Yes;*No;No;Yes;No;No;;;;;;
+;;;;;;;;Boolean Decision Rules via Column Generation (Light Edition) (Dash et al., 2018);Global explanation;Yes;No;No;Yes;No;No;;;;;;
+;;;;;;;;Generalized Linear Rule Models (Wei et al., 2019);Global explanation;No;Yes;;Yes;No;No;;;;;;
+;;;;;;;;ProfWeight (Dhurandhar et al., 2018);Global explanation;Yes;*Yes;No;*Yes;No;Yes;;;;;;
+Analyze;"Anchor
+
+https://github.com/marcotcr/anchor ";"Anchors: High-Precision Model-Agnostic Explanations
+
+https://homes.cs.washington.edu/~marcotcr/aaai18.pdf";Yes;No;No;Yes;Black-Box;Anchor;Local explanation;Yes;No;;Yes;Yes;No;No;No;BSD 2-Clause License;*Yes;Examples;Yes
+;"Alibi
+
+https://github.com/SeldonIO/alibi ";Alibi is an open source Python library aimed at machine learning model inspection and interpretation. The focus of the library is to provide high-quality implementations of black-box, white-box, local and global explanation methods for classification and regression models.;Yes;No;No;Yes;Black-Box;ALE;Global explanation;Yes;Yes;;Yes;No;No;Yes;No;Apache 2.0;Yes;Good Documentation;Yes
+;;;;;;;Black-Box;Anchor;Local explanation;Yes;No;;Yes;Yes;Yes;For Tabluar Data;No;;;;
+;;;;;;;"Black-Box,
+Keras/Tensorflow";CEM;Local explanation;Yes;No;;Yes;No;Yes;Optional;No;;;;
+;;;;;;;"Black-Box,
+Keras/Tensorflow";Counterfactuals;Local explanation;Yes;No;;Yes;No;Yes;No;No;;;;
+;;;;;;;"Black-Box,
+Keras/Tensorflow";Prototype Counterfactuals;Local explanation;Yes;No;;Yes;No;Yes;Optional;No;;;;
+;;;;;;;Keras/Tensorflow;Integrated Gradients;Local explanation;Yes;Yes;;Yes;Yes;Yes;Optional;No;;;;
+;;;;;;;Black-Box;Kernel SHAP;Local and Global explanations;Yes;Yes;;Yes;No;No;Yes;Yes;;;;
+;;;;;;;White-Box;Tree SHAP;Local and Global explanations;Yes;Yes;;Yes;No;No;Optional;No;;;;
+Focus on outlier, adverserial and drift detection rather then explainability;"Alibi-detect
+
+https://github.com/SeldonIO/alibi-detect ";Alibi Detect is an open source Python library focused on outlier, adversarial and drift detection. The package aims to cover both online and offline detectors for tabular data, text, images and time series. The outlier detection methods should allow the user to identify global, contextual and collective outliers.;Yes;No;No;Yes;;;;;;;;;;;;;;Good Documentation;Yes
+Focus on sentiment analysis;"Aspect-Based-Sentiment-Analysis
+
+https://github.com/ScalaConsultants/Aspect-Based-Sentiment-Analysis";"The task is to classify the sentiment of potentially long texts for several aspects. The key idea is to build a modern NLP package which supports explanations of model predictions. The approximated decision explanations help you to infer how reliable predictions are.
+
+Code supplementing a paper";Yes;No;No;No;Tensorflow;Aspect Based Sentiment Analysis;Local;Yes;No;No;No;Yes;No;N/A;No;Apache 2.0;Yes;No Documentation;Yes
+;"BlackBoxAuditing
+
+https://github.com/algofairness/BlackBoxAuditing ";"This repository contains a sample implementation of Gradient Feature Auditing (GFA) meant to be generalizable to most datasets.
+
+https://algofairness.github.io/fatconference-2018-auditing-tutorial/slides.pdf";Yes;No;No;No;N/A;Gradient Feature Audit;Global Explanations?;Yes;No;;Yes;No;No;No;No;Apache 2.0;No;Examples;Yes
+Analyze;"Boruta-Shap
+
+https://github.com/Ekeany/Boruta-Shap ";"BorutaShap is a wrapper feature selection method which combines both the Boruta feature selection algorithm with shapley values.
+
+This combination has proven to out perform the original Permutation Importance method in both speed, and the quality of the feature subset produced.
+
+Works only on the tree based classifiers/regressors";Yes;No;No;Yes;"sklearn,
+catboost,
+xgboost,
+etc";BorutaShap;Local and Global;Yes;Yes;;Yes;No;No;Yes;No;MIT Liecense;Yes;Examples;Yes
+;"casme
+
+https://github.com/kondiz/casme ";Novel method to train a model indicating salient locations in the image.;No;No;No;Yes for images;pytorch;Classifier-agnostic saliency map extraction;Local explanations;Yes;No;;No;No;Yes;N/A;No;BSD 3-Clause;*Yes;No Documentation;No
+;"Captum
+
+https://captum.ai
+https://github.com/pytorch/captum ";"Captum is a model interpretability and understanding library for PyTorch.
+
+Captum contains general purpose implementations of integrated gradients, saliency maps, smoothgrad, vargrad and others for PyTorch models.
+
+It has quick integration for models built with domain-specific libraries such as torchvision, torchtext, and others.";Yes;No;C++;Yes;pytorch only;"Integrated Gradients,
+DeepLift,
+DeepLiftSHAP,
+GradientSHAP,
+Input * Gradient,
+Saliency,
+Guided BackProp˚ / DeconvNet˚,
+Guided GradCam,
+LayerGradCam,
+Layer Internal Influence,
+Layer Conductance,
+Layer Gradient * Activation,
+Layer Activation,
+Feature Ablation,
+Feature Permutation,
+Occlusion,
+Shapely Value,
+Shapely Value Sampling,
+NoiseTunnel";Local and Global;Yes;Yes;;Yes;Yes;Yes;N/A;Yes;BSD 3-Clause;Yes;Good Documentation;Yes
+;"CDEP
+
+https://github.com/laura-rieger/deep-explanation-penalization ";"About
+Code for using CDEP from the paper ""Interpretations are useful: penalizing explanations to align neural networks with prior knowledge""";Yes;No;No;No;pytorch;CDEP;Local;Yes;No;No;Yes;Yes;Yes;N/A;No;MIt License;No;No Documentation;No
+;"cnn-exposed
+
+https://github.com/idealo/cnn-exposed ";"Repository containing code from the conferecne talk ""Demystifying the neural network black box"". Work came from idealo.de team
+
+https://speakerdeck.com/tanujjain/demystifying-the-neural-network-black-box";Yes;No;No;Yes;Keras;"Saliency Maps
+Gradient Class Activation Maps (Grad-CAM)
+Layerwise Relevance Propagation (LRP)";Local and Global;Yes;No;;No;No;Yes;Yes;No;MIT Liecense;No;No Documentation;No
+;"Contrastive Explanation (Foil Trees)
+
+https://github.com/MarcelRobeer/ContrastiveExplanation";Contrastive Explanation provides an explanation for why an instance had the current outcome (fact) rather than a targeted outcome of interest (foil). These counterfactual explanations limit the explanation to the features relevant in distinguishing fact from foil, thereby disregarding irrelevant features.;Yes;No;No;No;scikit-learn;"Contrastive and counterfactual explanations for machine learning (ML)
+";Local;Yes;Yes;Yes;Yes;No;No;N/A;No;BSD-3-Clause License;Yes;Good Documentation;No
+;"CXPlain
+
+https://github.com/d909b/cxplain ";Causal Explanations (CXPlain) is a method for explaining the decisions of any machine-learning model. CXPlain uses explanation models trained with a causal objective to learn to explain machine-learning models, and to quantify the uncertainty of its explanations.;Yes;No;No;No;Model-Agnostic;Causal Explanations;Local;Yes;Yes;No;Yes;No;No;N/A;No;MIt License;No;Examples;Yes
+this one is important;"DALEX
+
+https://dalex.drwhy.ai
+https://github.com/ModelOriented/DALEX ";"moDel Agnostic Language for Exploration and eXplanation
+
+The DALEX package xrays any model and helps to explore and explain its behaviour, helps to understand how complex models are working.";Yes;Yes;No;Yes;"keras,
+parsnip,
+caret,
+mlr,
+H2O,
+xgboost,
+scikit-learn,
+tidymodels";Residuals, SHAP, LIME, Breakdown, Contribution...;Local and Global;Yes;Yes;;Yes;No;No;N/A;No;GPL v3.0;Yes;Good Documentation;Yes
+;"Deeplift
+
+https://github.com/kundajelab/deeplift ";"DeepLIFT: Deep Learning Important FeaTures
+
+This repository implements the methods in ""Learning Important Features Through Propagating Activation Differences"" by Shrikumar, Greenside & Kundaje, as well as other commonly-used methods such as gradients, gradient-times-input (equivalent to a version of Layerwise Relevance Propagation for ReLU networks), guided backprop and integrated gradients";Yes;No;No;No;Keras, Tensorflow;DeepLIFT;N/A;Yes;No;;No;No;Yes;N/A;No;MIT License;Yes;Good Documentation;Yes
+;"DeepExplain
+
+https://github.com/marcoancona/DeepExplain ";"DeepExplain provides a unified framework for state-of-the-art gradient and perturbation-based attribution methods. It can be used by researchers and practitioners for better undertanding the recommended existing models, as well for benchmarking other attribution methods.
+
+Focus on deep learning. Not actively developed.";Yes;No;No;No;Tensorflow V1;"Saliency maps,
+Gradient * Input,
+Integrated Gradients,
+DeepLIFT, in its first variant with Rescale rule,
+ε-LRP,
+Occlusion,
+Shapley Value sampling";Local and Global;Yes;No;;Yes;Yes;Yes;N/A;No;MIT License;No;Good Documentation;Yes
+project not actively developed;"Deep Visualization Toolbox
+
+https://github.com/yosinski/deep-visualization-toolbox ";Understanding Neural Networks Through Deep Visualization;;;;;;;;;;;;;;;;;No;No Documentation;No
+Analyze;Eli5: https://github.com/TeamHG-Memex/eli5 ;"ELI5 is a Python package which helps to debug machine learning classifiers and explain their predictions.
+";Yes;No;No;Yes;"scikit-learn,
+Keras,
+xgboost,
+LightGBM,
+CatBoost,
+lightning";SHAP, LIME, others;Local and Global;Yes;Yes;;Yes;Yes;Yes;N/A;No;MIT License;Yes;Good Documentation;Yes
+Analyze;"explainx
+
+www.explainx.ai
+https://github.com/explainX/explainx ";"ExplainX is a model explainability/interpretability framework for data scientists and business users.
+
+http://3.128.188.55:8080/";Yes;No;Web tool;Yes;"Catboost,
+XGboost,
+Gradient Boosting Regressor,
+RandomForest Model,
+SVM,
+KNeighboursClassifier,
+Logistic Regression,
+DecisionTreeClassifier,
+All Scikit-learn Models,
+Neural Networks,
+H2O.ai AutoML";"SHAP Kernel,
+SHAP Tree
+What-if Analysis,
+Model Performance Comparison,
+Partial Dependence Plot";Local and Global;Yes;Yes;;Yes;No;No;No;No;MIT License;Yes;Good Documentation;Yes
+;"Fat Forensics
+
+https://github.com/fat-forensics/fat-forensics ";"FAT Forensics: Algorithmic Fairness, Accountability and Transparency Toolbox
+FAT Forensics (fatf) is a Python toolbox for evaluating fairness, accountability and transparency of predictive systems. It is built on top of SciPy and NumPy, and is distributed under the 3-Clause BSD license (new BSD).";Yes;No;No;Yes;scikit-learn;LIME, Partial dependence plot;Local and Global;Yes;Yes;No;Yes;No;No;N/A;No;BSD-3-Clause License;No;Good Documentation;Yes
+;"Facet
+
+https://github.com/BCG-Gamma/facet ";FACET is an open source library for human-explainable AI. It combines sophisticated model inspection and model-based simulation to enable better explanations of your supervised machine learning models.;Yes;No;No;Yes;Scikit;"SHAP (original implementation https://shap.readthedocs.io/en/stable/)
+FACET";Local and Global;Yes;No;No;Yes;No;No;N/A;No;Apache;Yes;Good Documentation;Yes
+;"Hierarchical neural-net interpretations
+
+https://github.com/csinva/hierarchical-dnn-interpretations ";Hierarchical interpretations for a single prediction from pytorch neural network;Yes;No;No;No;pytorch;ACD;Local;Yes;No;No;No;Yes;Yes;N/A;No;MIT License;Yes;Good Documentation;Yes
+;Innvestigate: https://github.com/albermax/innvestigate ;iNNvestigate provides a common interface and out-of-thebox implementation for many analysis methods, including the reference implementation for PatternNet and PatternAttribution as well as for LRP-methods.;Yes;No;No;Yes;Keras neural network;"Gradient Saliency Map,
+SmoothGrad, IntegratedGradients,
+Deconvnet, GuidedBackprop,
+PatternNet and PatternAttribution,
+DeepTaylor,
+and LRP including LRP-Z, -Epsilon, -AlphaBeta.
+";;Yes;No;;*No;Yes;Yes;Yes*(for some);No*;BSD2-license;Yes;;
+Visualizing Rules;imodels: https://github.com/csinva/imodels ;Python package for concise, transparent, and accurate predictive modeling. All sklearn-compatible and easily customizable.;Yes;No;No;Plots with Matplotlib;scikit-learn;"Rulefit rule set,
+Skope rule set,
+Boosted rule set,
+Bayesian rule list,
+Greedy rule list,
+OneR rule list,
+Sparse integer linear model";;Yes;Yes;;Yes;*No;No;Yes;;MIT License;Yes;;
+this one is important;InterpretML: https://github.com/interpretml/interpret ;InterpretML is an open-source package that incorporates state-of-the-art machine learning interpretability techniques under one roof. With this package, you can train interpretable glassbox models and explain blackbox systems.;Yes;Yes;No;Yes;"Glassbox,
+Blackbox
+";"Explainable Boosting,
+Decision Tree Decision,
+Rule List ,
+Linear/Logistic Regression,
+SHAP Kernel Explainer ,
+SHAP Tree Explainer,
+LIME,
+Morris Sensitivity Analysis,
+Partial Dependence";;Yes;Yes;;Yes;*No;*No;Yes;;MIT License;Yes;;
+;interpret-community: https://github.com/interpretml/interpret-community ;Interpret-Community is an experimental repository extending Interpret;Yes;No;No;Yes;Blackbox;"SHAP Kernel Explainer,
+SHAP Tree Explainer,
+SHAP Deep Explainer,
+SHAP Linear Explainer,
+Mimic Explainer (Global Surrogate),
+Permutation Feature Importance Explainer (PFI)
+";;Yes;Yes;;Yes;No;No;Yes;;MIT License;Yes;;
+;"Interpretability by parts
+
+https://github.com/zxhuang1698/interpretability-by-parts ";"Interp-Parts.. Code supplement for a paper. Focused on the images.. not supporting any other data
+";Yes;No;No;Yes (for images);Pytorch;Interpretable and Accurate Fine-grained Recognition via Region Grouping;Local;Yes;No;No;No;No;Yes;No;No;N/A;No;No documentation;No
+not relevante(images);Integrated-Gradients: https://github.com/ankurtaly/Integrated-Gradients ;The problem of attributing the prediction of a deep network to its input features, as an attempt towards explaining individual predictions;;;;;;;;;;;;;;;;;;;
+not relevante;Keras-grad-cam: https://github.com/jacobgil/keras-grad-cam ;Gradient class activation maps are a visualization technique for deep learning networks.;;;;;;;;;;;;;;;;;;;
+not relevante Visualization : NOTE: The links are currently broken and the entire documentation is being reworked. Please see examples/ for samples.;Keras-vis: https://github.com/raghakot/keras-vis ;keras-vis is a high-level toolkit for visualizing and debugging your trained keras neural net models;;;;;;;;;;;;;;;;;;;
+not relevante;keract: https://github.com/philipperemy/keract ;You have just found a way to get the activations (outputs) and gradients for each layer of your Keras model (LSTM, conv nets...).;;;;;;;;;;;;;;;;;;;
+not relevante for images;Lucid: https://github.com/tensorflow/lucid ;Lucid is a collection of infrastructure and tools for research in neural network interpretability.;;;;;;;;;;;;;;;;;;;
+not relevante NLP;LIT: https://github.com/PAIR-code/lit ;The Language Interpretability Tool (LIT) is a visual, interactive model-understanding tool for NLP models.;;;;;;;;;;;;;;;;;;;
+;Lime: https://github.com/marcotcr/lime ;This project is about explaining what machine learning classifiers (or models) are doing. Lime is able to explain any black box classifier, with two or more classes.(PyPI libary);Yes;No;No;Yes;Black Box;model-agnostic, meaning that it can be applied to any machine learning model;Local and Global;Yes;No;;Yes;Yes;Yes;Yes;;"BSD 2-Clause ""Simplified"" License";Yes;;
+not so many examples;LOFO: https://github.com/aerdem4/lofo-importance ;LOFO (Leave One Feature Out) Importance calculates the importances of a set of features based on a metric of choice, for a model of choice, by iteratively removing each feature from the set, and evaluating the performance of the model.;Yes;No;No;Yes;sklearn;model agnostic;;Yes;Yes;;Yes;No;No;Yes;;MIT License;Yes;;
+more for R;modelStudio: https://github.com/ModelOriented/modelStudio ;The modelStudio package automates the Explanatory Analysis of Machine Learning predictive models.;No;Yes;No;Yes(model explanations and produces a customisable dashboard);black box predictive models(e.g. mlr/mlr3, xgboost, caret, h2o, parsnip, tidymodels, scikit-learn, lightgbm, keras/tensorflow);model agnostic;;Yes;Yes;;Yes;No;No;Yes;;GNU General Public License v3.0;Yes;;
+not relevant (Computer Vision and NLP);pytorch-cnn-visualizations: https://github.com/utkuozbulak/pytorch-cnn-visualizations ;This repository contains a number of convolutional neural network visualization techniques implemented in PyTorch.;;;;;;;;;;;;;;;;;;;
+not relevante;Pytorch-grad-cam: https://github.com/jacobgil/pytorch-grad-cam ;"Grad-CAM implementation in Pytorch Grad-CAM: Why did you say that?
+Visual Explanations from Deep Networks via Gradient-based Localization";;;;;;;;;;;;;;;;;;;
+;PDPbox: https://github.com/SauceCat/PDPbox ;This repository is inspired by ICEbox. The goal is to visualize the impact of certain features towards model prediction for any supervised learning algorithm using partial dependence plots;Yes;No;No;Yes;sklearn;all sklearn algorithms;;Yes;Yes;;Yes;*No;No;Yes;;MIT License;No*;;
+;https://github.com/whyisyoung/CADE CADE;"CADE: Contrastive Autoencoder for Drifting detection and Explanation. A novel system CADE
+aiming to 1) detect drifting samples that deviate from existing
+classes, and 2) provide explanations to reason the detected
+drif";Yes;No;No;No;Keras, Tensorflow;sklearn, keras;Local;Yes;No;No;Yes;No;No;Yes;No;BSD License;Yes( new libary < 1year);No documentation - only code https://liminyang.web.illinois.edu/data/USENIX21_CADE.pdf;No
+;Disentangled attribution curves (DAC) https://github.com/csinva/disentangled-attribution-curves;Disentangled Attribution Curves for Interpreting Random Forests and Boosted Trees;Yes;No;No;Yes;sklearn;"Random Forests and
+AdaBoost";Local and Global;Yes;Yes;No;Yes;No;No;Yes;No;MIT License;Yes( actively maintained);Examples - only examples how to use the library https://arxiv.org/pdf/1905.07631v1.pdf;Yes
+;Toward Responsible Machine Learning https://github.com/jphall663/hc_ml;Toward Responsible Machine Learning presentation from various venues.;;;;;;;;;;;;;;;;Attribution 4.0 International;No(last commit 2 yearsago);;
+;Efficient Saliency and FastCAM https://github.com/LLNL/fastcam;FastCAM creates a saliency map using SMOE Scale saliency maps;Yes;No;No;No;pytorch;torchvision models;Local;Yes;No;No;No;No;Yes;Yes;No;BSD 3-Clause License;Yes( last commit < 1year);Examples - only examples how to use the library. https://arxiv.org/pdf/1911.11293.pdf;No
+;BioExp https://github.com/koriavinash1/BioExp;Explaining Deep Learning Models which perform various image processing tasks in the medical images and natural images.;Yes;No;No;No;Keras;keras;Local and Global;No;No;Yes;No;No;Yes;Yes;No;MIT License;Yes( last commit < 1year);Examples - only examples how to use the library.;Yes
+;LERND https://github.com/crunchiness/lernd;Lernd stands for Learning Explanatory Rules from Noisy Data. It is my implementation of the algorithm;Yes;No;No;No;tensorflow;tensorflow;Local and Global;No;No;No;Yes;No;No;Yes*;No;GNU GENERAL PUBLIC LICENSE;Yes;Examples - only examples how to use the library.;Yes
+;CNN Explainer https://github.com/gsurma/cnn_explainer;CNN Explainer is PyTorch based project that aims to make CNN's predictions explainable.;Yes;No;No;No;pytorch;torchvision models;Local;No;No;No;No;No;Yes;Yes;No;MIT License;Yes( new libary < 1year);No documentation - only code;No
+;Concept Activation Vectors for Keras https://github.com/pnxenopoulos/cav-keras;Concept Activation Vectors for Keras;Yes;No;No;No;Keras;keras;Local;Yes;No;No;No;No;Yes;Yes;No;MIT License;No;No documentation - only code;No
+;ProtoTrees https://github.com/M-Nauta/ProtoTree;PyTorch code for Neural Prototype Trees;Yes;No;No;No;pytorch;torchvision models;Local;Yes;No;No;No;No;Yes;Yes;No;MIT License;Yes( new libary < 1year);No documentation - only code https://arxiv.org/pdf/2012.02046.pdf;No
+;CFAI https://github.com/wangyongjie-ntu/CFAI;Counterfactual explanations mainly target to find the mimimum perturbation which changes the original prediction(Ususlly from an undesirable prediction to ideal one).;Yes;No;No;No;pytorch;pytorch;Local;Yes;No;No;Yes;No;No;Yes;No;MIT License;Yes( new libary < 1year);No documentation - only code;Yes
+;Multilayer Logical Perceptrons https://github.com/12wang3/mllp#multilayer-logical-perceptrons;PyTorch implementation of Multilayer Logical Perceptrons (MLLP) and Random Binarization (RB) method to learn Concept Rule Sets (CRS) for transparent classification tasks;Yes;No;No;No;pytorch;pytorch;Local;Yes;No;No;Yes;No;No;Yes;No;MIT License;Yes( last commit < 1year);No documentation - only code;No
+;https://github.com/da2so/Counterfactual-Explanation-Based-on-Gradual-Construction-for-Deep-Networks;PyTorch implementation for Counterfactual Explanation Based on Gradual Construction for Deep Networks;Yes;No;No;No;pytorch;pytorch;Local;Yes;No;No;Yes;No;Yes;Yes;No;not stated(not published);Yes( new libary < 1year);No documentation - only code;No
+;MEG https://github.com/danilonumeroso/meg;This repository contains the official (PyTorch) implementation of MEG;Yes;No;No;No;pytorch;pytorch;Local;Yes;Yes;No;Yes;No;No;Yes;No;Apache License 2.0;Yes( new libary < 1year);No documentation - only code;No
+;https://github.com/csinva/transformation-importance;Official code for using / reproducing TRIM from the paper Transformation Importance with Applications to Cosmology;Yes;No;No;No;pytorch;pytorch;Local;Yes;No;No;No;Yes;No;Yes;No;MIT License;Yes( actively maintained);No documentation - only code;No
+;https://github.com/dmitrykazhdan/MEME-RNN-XAI;"MEME is a (M)odel (E)xplanation via (M)odel (E)xtraction framework, which can be used for analysing RNN models via explainable concept-based extracted models. (No releases published, paper coming soon
+)";;;;;;;;;;;;;;;;;;;
+;https://github.com/UMBCvision/Explainable-Models-with-Consistent-Interpretations;Official PyTorch implementation for the AAAI 2021 paper 'Explainable Models with Consistent Interpretations';Yes;No;No;No;pytorch;pytorch;Local;Yes;No;No;No;No;Yes;Yes;No;MIT License;Yes( new libary < 1year);No documentation - only code;No
+;https://github.com/narimannemo/pine;PINE (Parallel Interpreter NEtwork) is a novel interpretability framework which provides decent interpretations of DNNs (no realise published);;;;;;;;;;;;;;;;not published;Yes( new libary < 1year);;
+;py-ciu: https://github.com/TimKam/py-ciu ;;Yes;No;NO;No;Black Box;;Global explanation;Yes;Yes;;Yes;*No;*No;Yes;;BSD license;Yes*;;
+;PyCEbox: https://github.com/AustinRochford/PyCEbox ;Python Individual Conditional Expectation Plot Toolbox;Yes;No;No;Yes;Black Box*;;Local explanation*;*Yes;*Yes;;*Yes;*No;*No;Yes*;;MIT License;No;;
+relevant;path_explain: https://github.com/suinleelab/path_explain ;A repository for explaining feature importances and feature interactions in deep neural networks using path attribution methods.;Yes;No;No;Yes;DNN;;Global and Local explanation;Yes;Yes;No;*Yes;*Yes;*No;Yes;;MIT License;Yes*;Examples;No
+relevant;rulematrix: https://github.com/rulematrix/rule-matrix-py ;A model-agnostic tool for explaining machine learning models using rule surrogate and matrix-style visualization.;Yes;No;No;Yes;Black Box;;Local explanation*;Yes;Yes;No;Yes;*Yes;*No;Yes;;MIT License;No;Examples;No
+;Saliency: https://github.com/PAIR-code/saliency ;Saliency methods link a deep neural netowrk's (DNN) prediction to the input features that most influence that prediction;Yes;No;No;Yes;DNN;XRAI*, SmoothGrad*, Vanilla Gradients, Guided Backpropogation, Integrated Gradients, Occlusion, Grad-CAM, Blur IG;Global explanation;Yes;Yes;No;*No;*No;Yes;Yes;;Apache 2.0 License;Yes;Good documentation;Yes
+relevant;SHAP: https://github.com/slundberg/shap ;SHAP (SHapley Additive exPlanations) is a game theoretic approach to explain the output of any machine learning model. It connects optimal credit allocation with local explanations using the classic Shapley values from game theory and their related extensions;Yes;No;C++;Yes;Black Box;;Global and Local explanation;Yes;Yes;Yes;Yes;Yes;*No;Yes;;MIT License;Yes;Good documentation;Yes
+;Shapley: https://github.com/benedekrozemberczki/shapley ;Shapley is a Python library for evaluating binary classifiers in a machine learning ensemble.;Yes;No;No;No;Black Box;;Local explanation;Yes;Yes;No;Yes;Yes;*No;Yes;;MIT License;Yes;Good documentation;Yes
+;Skater: https://github.com/oracle/Skater ;Skater is a unified framework to enable Model Interpretation for all forms of model to help one build an Interpretable machine learning system often needed for real world use-cases(** we are actively working towards to enabling faithful interpretability for all forms models). It is an open source python library designed to demystify the learned structures of a black box model both globally(inference on the basis of a complete data set) and locally(inference about an individual prediction).;Yes;No;NO;No;Black Box;;Global and Local explanation;Yes;Yes;No;Yes;Yes;*No;Yes;;UPL-1.0 License;Yes*;API documentation;Yes
+;TCAV: https://github.com/tensorflow/tcav ;Testing with Concept Activation Vectors (TCAV) is a new interpretability method to understand what signals your neural networks models uses for prediction.;Yes;No;No;No;Neural networks;;Global explanation;Yes;Yes;No;*No;*No;Yes;Yes;;Apache 2.0 License;Yes;Examples;No
+;skope-rules: https://github.com/scikit-learn-contrib/skope-rules ;"Skope-rules aims at learning logical, interpretable rules for ""scoping"" a target class, i.e. detecting with high precision instances of this class. Skope-rules is a trade off between the interpretability of a Decision Tree and the modelization power of a Random Forest.";Yes;No;No;No;Decision Trees and Random Forest;;Global explanation;Yes;Yes;No;*Yes;*Yes;*No;Yes;;BSD license;Yes*;API documentation;No
+;TensorWatch: https://github.com/microsoft/tensorwatch.git ;TensorWatch is a debugging and visualization tool designed for data science, deep learning and reinforcement learning from Microsoft Research. It works in Jupyter Notebook to show real-time visualizations of your machine learning training and perform several other key analysis tasks for your models and data.;Yes;No;No;Yes;Deep learning and reinforcement learning;;Local explanation;*Yes;*Yes;No;Yes;*Yes;*Yes;Yes;;MIT License;Yes;Good documentation;Yes
+;tf-explain: https://github.com/sicara/tf-explain ;tf-explain implements interpretability methods as Tensorflow 2.x callbacks to ease neural network's understanding;Yes;No;No;Yes;neural networks;Activations Visualization, Vanilla Gradients, Gradients* Inputs, Occlusion Sensitivity, Grad CAM, SmoothGrad, Integrated Gradients;Local explanation*;*Yes;*Yes;No;*Yes;*Yes;Yes;Yes;;MIT License;Yes;Good documentation;Yes
+;"Transformers Interpret
+
+https://github.com/cdpierse/transformers-interpret
+";Explainability tool that works only with Transformers package.. Designed only for NLP tasks.;Yes;Yes;No;No;Pytorch;;Local and Global;Yes;*Yes;No;No;Yes;No;No;No;Apache 2.0 License;Yes;Examples;Yes
+;"Transformer MM Explainability
+
+https://github.com/hila-chefer/Transformer-MM-Explainability ";Collection of notebooks. A few exapmles;Yes;No;No;No;Pytorch;;;Yes;No;No;No;Yes;Yes;No;No;MIT License;Yes;Examples;No
+;Treeinterpreter: https://github.com/andosa/treeinterpreter ;Package for interpreting scikit-learn's decision tree and random forest predictions. Allows decomposing each prediction into bias and feature contribution components as described in http://blog.datadive.net/interpreting-random-forests/.;Yes;No;No;No;Decision Trees and Random Forest;DecisionTreeRegressor, DecisionTreeClassifier, ExtraTreeRegressor, ExtraTreeClassifier, RandomForestRegressor, RandomForestClassifier, ExtraTreesRegressor,ExtraTreesClassifier;;Yes;Yes;No;Yes;Yes;*Yes;;;BSD license;Yes;Examples;Yes
+;WeightWatcher: https://github.com/CalculatedContent/WeightWatcher ;WeightWatcheer (WW): is an open-source, diagnostic tool for analyzing Deep Neural Networks (DNN), without needing access to training or even test data;No;No;No;No;Deep learning;;Local explanation*;No;No;No;Yes;*No;*No;No;;Apache 2.0 License;Yes;Good documentation;Yes
+;What-if-tool: https://github.com/PAIR-code/what-if-tool ;The What-If Tool (WIT) provides an easy-to-use interface for expanding understanding of a black-box classification or regression ML model. With the plugin, you can perform inference on a large set of examples and immediately visualize the results in a variety of ways. Additionally, examples can be edited manually or programmatically and re-run through the model in order to see the results of the changes. It contains tooling for investigating model performance and fairness over subsets of a dataset.;Yes;No;No;Yes;Black Box;;Local explanation*;Yes;Yes;No;Yes;No;Yes;No*;No*;Apache 2.0 License;Yes;Examples;No
+;XAI: https://github.com/EthicalML/xai ;XAI is a Machine Learning library that is designed with AI explainability in its core. XAI contains various tools that enable for analysis and evaluation of data and models. --> estimate and visualize imbalance data, correlation, ROC AUC and lots of comon visualization found in matplotlib etc.;Yes;No;No;Yes;Black Box;Imbalance, Correlation, permutaiton feature importance, AUC ROC Curve, Confusion matrix ,balance data;Global explanation;Yes;Yes;No;Yes;Yes;No;No;No;MIT License;No;Examples;Yes
+;MARLENA: https://github.com/CeciPani/MARLENA;"MARLENA provides rule-based explanations. The explanation is the decision tree path from root to leaf that matches the features of the instance whose black-box classification we want to explain. Citation: ""Explaining multi-label black-box classifiers for health applications""";Yes;No;No;No;BlackBox;;Global explanation;Yes;No;No;Yes;No;No;No;No;GPL-3.0 License;No;Examples;No
+;Patenarial Explainer: https://github.com/amarion35/partenarial_explainer;Partenarial Explainer is a method of interpretability based on the concept of partenarial examples. For a binary classification task, the method aims, for a selected input, to find the closest example in the other class. In a fault detection task this method helps to identify the actions to take to 'repair' a faulty example.;Yes;No;No;No;XGBoost models;;Global explanation;Yes;No;No;Yes;No;No;No;No;MIT License;No;Examples;No
+;XAI-Analytics: https://github.com/Batev/XAI-Analytics;XAI-Analytics is a tool that opens the black-box of machine learning. It makes model interpretability easy. XAI-Analytics offers a wide range of features such as data visualization, data preprocessing, ML-model training and global and local ML-model interpreting. The interactive Jupyter Notebook offers an user-friendly interface that gives the user full control over the tool.;Yes;No;No;Yes;BlackBox;;Global and Local explanation;Yes;No;No;Yes;No;No;No;No;GPL-3.0 License;Yes;Examples;No
+;FLEX: https://github.com/sandareka/FLEX;"Explaining the decisions of a Deep Learning Network is imperative to safeguard end-user trust. Such explanations must be intuitive, descriptive, and faithfully explain why a model makes its decisions. In this work, we propose a framework called FLEX (Faithful Linguistic EXplanations) that generates post-hoc linguistic justifications to rationalize the decision of a Convolutional Neural Network. Citation: ""FLEX: Faithful Linguistic Explanations for Neural Net Based Model Decisions""";Yes;No;No;No;Black Box;;Global Eexplanation;Yes;No;No;Yes;No;No;No;No;MIT License;Yes;Examples;No
